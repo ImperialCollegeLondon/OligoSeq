@@ -1,0 +1,1136 @@
+@00bad600-f9bb-4128-8350-9f8ad444e9d4 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=52 start_time=2025-03-19T16:36:42.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=00bad600-f9bb-4128-8350-9f8ad444e9d4 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTATTGTCGCGGATGAGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+ESH;876,+)(()3255654678@?:::97778866/..4422245444657855422+*-0224+*(+,43454567:9;;9@?5555>1?>?
+@49f2a2e5-9a70-4cea-ad6a-d44d790b87ce runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:36:34.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=49f2a2e5-9a70-4cea-ad6a-d44d790b87ce basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+769;JH>4334<>@DESS:::;DEB@?@ACS0///FFGGHBGHFGGFHFDGIFHGKLECDC><=<D;;<HSEBFF@@@?=>>>>2JK
+@abf17696-f543-42c2-a411-0de59cc21105 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:36:33.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=abf17696-f543-42c2-a411-0de59cc21105 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCGCGGCGACACTCATCTGCTATACGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCACTCAACTGGCA
++
+<=;9989;8888:::=?ABABBB>??>@@@AAA>>=<=<=?>@BA?>?@>>>>;;:,,+.14*++99,++)(((+57AE
+@91196852-1277-41cb-8261-5e9329b7f007 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=112 start_time=2025-03-19T16:36:31.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=91196852-1277-41cb-8261-5e9329b7f007 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAGTGGAGCCGCGGCGACCTCATCTGCTCTGGTAGCTATACGACGATATGGTCGGCGCTGACGGACCGGCGCTCAACTGGCA
++
+E30005@DDBDCA>@99962112--.-,,)&$$###$#$$%&&%&&&&'-,-*()'''(4664458:DDDCDA?@@63334ADEE
+@943be58f-6053-4308-917f-46a640c34763 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=112 start_time=2025-03-19T16:36:30.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=943be58f-6053-4308-917f-46a640c34763 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+9'&&'45224?GHIFGFEFDHJ>==<?>??HGIGLIGIJGHSGGNJLGINGEHGMIHHHGLGGGHGEFBIFEFSEGEC@>@=/++-0:788
+@e42a4cdd-e38c-4d91-8e1c-37c3d2c8ca5d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:36:22.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e42a4cdd-e38c-4d91-8e1c-37c3d2c8ca5d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACT
++
+:1489:<97540,/-000??@A3223==;<<=C99<<<<HEDEDKKGEINEHFSHSJJGFEDDDC@@?+**))'',+,((*)''()/
+@5e6896fe-803e-46d7-bdac-cd5ee7a92ec8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=106 start_time=2025-03-19T16:36:17.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5e6896fe-803e-46d7-bdac-cd5ee7a92ec8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGTGGAGCCGCGGCGACACTAGTTGTTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+:9::ILCFE@@,,,+++)--*)**,****?@=<>EFHGJGHEDICBBABDFHGGLHGGLA?@<:3100011<=33202336ABCE
+@e6bcd423-a42c-4a5c-a3a4-cc58e7ca3344 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:36:23.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e6bcd423-a42c-4a5c-a3a4-cc58e7ca3344 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGGG
++
+;;53.<=<788:?>??<=<7664453444DFDEEFHIFGFFFCDCDGDFIEFC?FBBBCAAA4336>?99:;7...-)))*)'&(
+@1b13eafa-066f-4586-8174-6c3a691c3697 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=75 start_time=2025-03-19T16:36:22.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1b13eafa-066f-4586-8174-6c3a691c3697 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCAGAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+75-****23332/,-0244998989:<877----9:<>;;:;<;9889::9:::?=>>=><<::;;<=<:989<=??99999899;>DBA
+@867bbd72-23d7-4157-a9b1-057e198c1342 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:36:25.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=867bbd72-23d7-4157-a9b1-057e198c1342 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTCGAGCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCAGGTGCT
++
+=9>>?CEA2.-..+,06;=??<<<:<<<<==<67CEDFD;;;;<JESGFCBBBCA>>>?B@@ACBAA;<93410126/1666<<<?JBFDSHJGSS
+@cd367f32-2a10-4a9f-b6ff-757b47900ca1 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=2 start_time=2025-03-19T16:37:09.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=cd367f32-2a10-4a9f-b6ff-757b47900ca1 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATATGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+KNKIHKNIMJILHDOIFFD<;;;>>433366:HGFGHINIIJHJIS>*'''IIEEJRIIKQJNMGILSFG@9=8::;AB66542225;@C@
+@76daf121-b6e8-421d-8ebf-5ebef882b7ea runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=22 start_time=2025-03-19T16:37:01.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=76daf121-b6e8-421d-8ebf-5ebef882b7ea basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAACCCCGCCAGACACCTGAGGACATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+7777677655567767989:77655453323567++*),-+))+,&&&)&&&&(01222597994431---++*+,.+++,/01
+@568238c0-ab1a-43be-885a-a044b2882821 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:37:01.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=568238c0-ab1a-43be-885a-a044b2882821 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTGCAACTGGCA
++
+&&8;FFE>9964445886333)))*343778AAA:888DDKFJSIHGKFIFMGEIISMJRFFEGEDHDE@55456*)),+(&$$$/1:>BG
+@2c30d5a4-eef3-466a-b7bd-c4b98defb1ea runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=121 start_time=2025-03-19T16:36:47.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=2c30d5a4-eef3-466a-b7bd-c4b98defb1ea basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+-+++774455677878988667887679;7755531012666765211144344444221101358986664////899<
+@49ef9d3e-3012-4cc3-b65b-7281db4e1e56 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:36:46.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=49ef9d3e-3012-4cc3-b65b-7281db4e1e56 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+HCCCBJQNSH7?888DFFGDGG===>CD?@B>@@AEGGFJCCCDHGB:::58BBFSFDIDFCCC?==;/..,)'(+*)*--++)++.<=@A
+@2b2b424c-2c5e-4600-976e-0f095a5379d8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=112 start_time=2025-03-19T16:36:48.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=2b2b424c-2c5e-4600-976e-0f095a5379d8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTGCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTCATCTGCTATACAGTGGCGCTGCGACGATATGACGTGAGCGCTGACCGCGCTGAACTGGCA
++
+??EJC@:;<<AAAEDGDBSA<:;8656567@AEACB?@@AFJHA<;;::;;AA?=??@NBBABCFEFE711244448==>@@DEEEGFLGBCB8222332//+))(((),++++*78;=>GE:;::<D@@??C=<;;-,,*--*)(())),++,--(&%%',-/0-.,+'%#$&)+'%%&).//26
+@4b928d82-c8d7-41e5-8f60-a71e583c630c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:36:53.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4b928d82-c8d7-41e5-8f60-a71e583c630c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGACGCAGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCGCTTTCGAA
++
+,,)%%'(,,**+../1@AABEEJSKSLICAADSSSKIB@@::9:A??AA?+**+0.+*+'&&%''))(*****11:<>?C?))))6*--2
+@eaa36457-beda-4f14-8507-d79efbbb7187 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=124 start_time=2025-03-19T16:36:54.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=eaa36457-beda-4f14-8507-d79efbbb7187 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+?87))))25;=????CA@AB>==AIHFFICBC@@@ACBAA??@BSNJSIOPHMGGFE<<<;<9:;A==>?B????FGFGICMJ
+@7498f615-7388-4161-ae8e-22ea34a23195 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=44 start_time=2025-03-19T16:37:36.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=7498f615-7388-4161-ae8e-22ea34a23195 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGAAAGTGGAGCCGCGGCAACACCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGC
++
++*,-/2/01/-,,,....//--,,+,,*+,./145568655520///01177644447887554454665559;;;988872222/--
+@e81c59c6-7a85-4c29-a9f9-efae4e7dcf73 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=44 start_time=2025-03-19T16:37:35.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e81c59c6-7a85-4c29-a9f9-efae4e7dcf73 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+>33114FHOISIPNHFENIKGF????NJGLSIDFG;;;;QISRKFPIEDC?)(((*&&&&(,.0...3*))(((*,-8:,++'('')8674
+@a0d2a2ef-cd00-4259-b464-2cf24a443bfb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:37:32.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a0d2a2ef-cd00-4259-b464-2cf24a443bfb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCGACGCTAGCGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+BGA:443/,)'''1../06*,++11)(('--./413220,,,-;<@=:7878;:865336'')((,.1131133336568554667<0??@
+@ad218950-be46-4ad8-9016-4464eca2b970 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:37:19.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=ad218950-be46-4ad8-9016-4464eca2b970 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTAAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+GBCEA?<>@?GBD>9=C@<4445ENFHDCCJDEEDG>>??43336-)+129876-01254)())***,-49>CBCEADDF
+@91b3596c-01aa-40f5-9379-c683e99acdd7 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:37:24.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=91b3596c-01aa-40f5-9379-c683e99acdd7 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+GFIJGJEJJ?>????@FCCC===>GJPGHMGJFEHFFDEEGHJIOJSOSPIAAA84336@>IG
+@f31b6cf8-6764-4fd0-976f-1f1f7918e0cd runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:38:14.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f31b6cf8-6764-4fd0-976f-1f1f7918e0cd basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACA
++
+A@A<:8966558974839;:@B@?@888666443.//01./****.,++,)))
+@cbe5a377-dc5b-4426-82b8-c5c53fdf8c47 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=97 start_time=2025-03-19T16:38:12.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=cbe5a377-dc5b-4426-82b8-c5c53fdf8c47 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCATGACGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACA
++
+000('%&*2,(''1+*)))&(%&&)*0+))))31111+'''&&&43388799:<BGC;<CB?:10006><88614222229.::
+@38cc4ed8-46e7-491e-bdcd-cf4b2037f91c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=22 start_time=2025-03-19T16:38:03.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=38cc4ed8-46e7-491e-bdcd-cf4b2037f91c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCA
++
+B5778=>=)('--(&&&,,+++))&&%&***21./0---/::21224<=@CFCCAAFEEFFCCE@@?;;;<8,,,4552,
+@5f63122b-ab90-498b-a399-dd85430e3778 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=44 start_time=2025-03-19T16:38:03.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5f63122b-ab90-498b-a399-dd85430e3778 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTCAGTTGAGCACGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTA
++
+@?AFFLLJFJGJSIMKKJMSHJFHGGFFGHLFSBBBCI>=9&%%('()-((((8:@777:888>A?;;9966=<>988;ABAGCEFHFSISSNF;:::;=<;;:;=
+@ef8a9b24-d0b0-4591-82c5-3d54c5b261da runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=22 start_time=2025-03-19T16:38:18.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=ef8a9b24-d0b0-4591-82c5-3d54c5b261da basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCGCTTTCGAA
++
+>@@94224567>>@:BDCJ@A<112))))++++6788=4332333777;=AAA=>>>?>>9784464433.+++/.+---75'''';0989
+@238a870c-435d-4893-a40b-20c7d7469018 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=75 start_time=2025-03-19T16:37:54.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=238a870c-435d-4893-a40b-20c7d7469018 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+-,,-30-.03?>B@;<;7DDBCC@;;<1.-5<<=@A=>=?
+@d5a38b16-4b9a-49fb-9e58-444ac5288e21 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=2 start_time=2025-03-19T16:38:47.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d5a38b16-4b9a-49fb-9e58-444ac5288e21 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+DS;533554)''(;;>>IG9877:;;<;:76677677;9999?AASEDDGC;::;CCA35BB><;<<<<<6--,-1///0;;<EBB@8@DF
+@f390d83a-4649-4052-8649-8a094a0f7a0a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:38:36.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f390d83a-4649-4052-8649-8a094a0f7a0a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGAGCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+OEDECIID1-)&$%.8<BAAB@@@@CFHHIJIH4444CGKGBBHIJJSIGNHSINSJIINLKSBAABHS<=<=B@><;?>=:::;?8?H
+@15c3a52e-17dd-4de2-a84c-c67f99c4f308 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:38:35.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=15c3a52e-17dd-4de2-a84c-c67f99c4f308 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+?7<<=FHQDDDFDB<<<<<<<<4333340...=@DBDCDFKIPIIGEAABAEHHHEEIHGHOHJH<<;;C?@@FGJLHR??>>)''(C:DD
+@55af1ca5-1a61-43d3-873d-353763d71ceb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=23 start_time=2025-03-19T16:38:31.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=55af1ca5-1a61-43d3-873d-353763d71ceb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGACGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAAGATGGTGTCGCCGCGGCTCCGCTTTTCGAA
++
+A@:/*&&&',-.98?8FFGIGEGHJLJG?>==51001EGHCCCCGFGHFHOSJGFA:68/+*+0,)))0..0241,--.//****332//0
+@2b677608-032f-4add-a3f9-982692e601b5 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:38:34.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=2b677608-032f-4add-a3f9-982692e601b5 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGAA
++
+00999<<A@BCDBCBADCDEGEDB?43&&&'.-.,-)()),46>BD=<<>@/++,?ADDLFFGFF
+@56dd3a27-dabd-4f8a-a105-c4ad58a0fc3b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:38:23.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=56dd3a27-dabd-4f8a-a105-c4ad58a0fc3b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTAAGCACGCCGTAGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+--*('%&$$%''%'))1+**,,00+,,,,,,,88?@EIHIFFEFEFHGJGGFFEG76696555)))*2:=>ABCDGHHGHLE@?=81/-.
+@3ea105cf-86a4-47bc-a2d8-09564157a2f3 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:38:26.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3ea105cf-86a4-47bc-a2d8-09564157a2f3 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+=<DEBDEGGGHEGACLKELOPIKIJHSGSSSPGGGD==<=
+@941a16af-2282-47a5-88ea-fbe51d89c4d8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=22 start_time=2025-03-19T16:38:27.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=941a16af-2282-47a5-88ea-fbe51d89c4d8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTA
++
+3321/.0---&&(1232234345797777;97775653((((0138424/+,++-0/---'&&((''((+6554454456?@<<<<
+@b07fee09-db30-4113-a39b-1872720050f8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=1 start_time=2025-03-19T16:39:09.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b07fee09-db30-4113-a39b-1872720050f8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CAGTTGAGCGCCGGTCCGTCAGCGCTTGCACGTTGATATCGTCGTATAGCTACTGTATAGCAGTCGGTGTCGCCGCGGCTCCACTTTCGAA
++
+0--,*)*-,,,5467=@3223<;54423212((()11:<AAA?@@ANGGDGDGJKLKD333.-,(&&''**))*668CDGFF???@GAJLF
+@1b460a13-1fc7-4ef1-a582-aeb10644e5b9 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=21 start_time=2025-03-19T16:39:05.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1b460a13-1fc7-4ef1-a582-aeb10644e5b9 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGATTCAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATCACAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+RKE731)))044;<E@DEDRCFEAAFDCDA=<;<A?@AA===7779?65788@>9888<;988@BALIHSME????F999931)&&'6,//0
+@4843d717-20b1-4fdb-8b53-c13122cdb252 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=17 start_time=2025-03-19T16:38:47.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4843d717-20b1-4fdb-8b53-c13122cdb252 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCCATGCGGCGTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
++(:>@CCB?=3;555<99::??0..0--+'$####%'%$%%'**./;;;>CDDHABBCEBBCC888***+88798>=*))))((+@=EH
+@554f28ea-38ae-4ff4-8abc-8b7456102207 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=9 start_time=2025-03-19T16:39:20.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=554f28ea-38ae-4ff4-8abc-8b7456102207 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTGCGCCGCAGCTCCGCTTTTGGAAA
++
+DM>52/.,,,*)**),+/1)()(/1479-)))*..22667822119:;<=B??==>>?=?:99:;3,,/;52'''&1**'(&'(,-,,+*-,,,
+@854a8339-ff6f-49c8-97ef-a6730a02fa74 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=58 start_time=2025-03-19T16:39:24.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=854a8339-ff6f-49c8-97ef-a6730a02fa74 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+??;?@@CLPS;;;<CIFGFIGGH980/00001?@@BDCCCJFHFEFIGH5555??GCB@@CFSGFLD1110.../001A
+@c8dfab66-fbbb-4dc2-9ea0-b50dd3da0edd runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:39:23.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c8dfab66-fbbb-4dc2-9ea0-b50dd3da0edd basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+>779<>B@@????><<;;<=?>?@@AABCCGEGLHFGFGGCEFGHJEA@@BCEBDKFFG@A?>@@@@@?ACBEDDFEFE22213112@:JI
+@6f1a0308-992b-4715-8b17-21e35c068b14 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=124 start_time=2025-03-19T16:39:22.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6f1a0308-992b-4715-8b17-21e35c068b14 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGA
++
+JABBADD@*&%%%%%%*./AFD7555:HSSGSSKJDFECSJQGMIGFJEFIGJKISMKIMKLFIG5556CE2112212039
+@7eefdbbe-1864-41a9-b722-9d300ece2efc runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=17 start_time=2025-03-19T16:39:52.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=7eefdbbe-1864-41a9-b722-9d300ece2efc basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCGCGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+DHEFBEGA@><:;;<@?99455477455/)))+0../669=>=>DFEEGEEEGFJNQGFCBB@;;:779?>;::;?ELNJSSGBJEJFCDD
+@c93f08f9-8403-4f01-a0e3-dc5a0280052a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:39:50.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c93f08f9-8403-4f01-a0e3-dc5a0280052a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCATCACTTTC
++
+5862335466887932121--,'''+,/*''&'--7743455556A)))))==<<><;))876841.,-6,,-/-.%$$$)..C=
+@a1b15cf6-0503-45b7-bece-699dccaf5738 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:39:47.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a1b15cf6-0503-45b7-bece-699dccaf5738 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+997777778;;8889?==<===<:9::>>>>>>>A??>>?>?<<==?=<;>@<;<:989:C=;;<:>ABDGGG9888@;AFG
+@3fc7114d-761f-451b-80aa-3a885f82f855 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:39:43.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3fc7114d-761f-451b-80aa-3a885f82f855 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+E9***9C@E?CBBCCDDIEGNEIS@4444FDEABGIFGKKHIRIMILHSJJJEJFFISIKHFDGCBB?@>;<;;;;>>4430(((,:;=?
+@6123c0c3-3f45-4d3a-a4c7-5bd3d44e6d7a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=1 start_time=2025-03-19T16:39:40.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6123c0c3-3f45-4d3a-a4c7-5bd3d44e6d7a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+GRCCBAB2223::>:99:?78777865549;>@A@DCDEDGBABDLFGGGFC@>>@?::;:<>=<<7::?;89:;A655590%%%&;2:=A
+@a26bc8c6-4fe6-4df2-be8c-02f365f90d13 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:39:37.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a26bc8c6-4fe6-4df2-be8c-02f365f90d13 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTAAGGAGCCGGCGCTCGACTGGCA
++
+:;>>=>>><<=<==9:2*9::::;>=><<;=<=;997884''()1A?@?=<;;;<==>==><=::;<DECCBBACDDEBCC@@?????A@ABABGFBD?>1001/--''&&'-&&&662221''''>8CB
+@93c95f09-1496-40d6-9d3a-740a1aec7ec8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=1 start_time=2025-03-19T16:39:42.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=93c95f09-1496-40d6-9d3a-740a1aec7ec8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAACAGCGGCAACATCATCTGCTATACGGTAGGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+3&''(:;30+((&&())//'%%&&&&13231333/-,-*,**+5>>=<===>?@AEC@?=<211144611//+-,,-.5.--*)(*.8:;>
+@391c7e45-8985-4038-ae34-c637025e2b55 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=34 start_time=2025-03-19T16:39:43.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=391c7e45-8985-4038-ae34-c637025e2b55 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCA
++
+:855=CBGDDHCGD>D?=GECCF?<<;4557<@@BD?
+@e15fdc88-5b2f-4cee-81e2-379a58310b34 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=34 start_time=2025-03-19T16:39:44.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e15fdc88-5b2f-4cee-81e2-379a58310b34 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTACGATAGATGAAACCAGCATCTAAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+..05'*'*,+0000/057(())**++,,,,.,4-***'%$$'-1*-'&&'337999IGGF@?@AMGJ@@@HE@BAB4445
+@be2e7810-5bf3-4bf1-b8a8-036c670f9276 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:39:42.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=be2e7810-5bf3-4bf1-b8a8-036c670f9276 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCAGTTGAGCGCGTCCCATCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCAGCTACCGCTTCGAA
++
+59''.-,,-.)($##&&%(((343444997788;;C2114??=F?>>=>@BA@CC?89?@@=<8566;<<=;88****+''&&&((5>>
+@6487b265-cb23-479f-9fc6-7da72410145e runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=124 start_time=2025-03-19T16:40:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6487b265-cb23-479f-9fc6-7da72410145e basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGAGCGCGGCGACACTCATACTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACT
++
+4-,-.01-)%%&&&(789>?.--/45('''5AACGHFEKJOMIFSJPFGHIMKNSGKKFHABAAGSGADA@?BA><<=@@A?888:
+@3823bce6-68c2-4388-a85b-312fd65e6829 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=121 start_time=2025-03-19T16:39:57.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3823bce6-68c2-4388-a85b-312fd65e6829 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTGGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGGACCGGCGCTCAACTGCGA
++
+;<34--0++-::;>>>=9889>?CCDCCBC????DCGGJDSEDEEIDCCDHEEEFGBAA@<::1..699:9221*)))*0)%%
+@24975821-2632-4056-b507-f009b2a3ffda runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:40:06.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=24975821-2632-4056-b507-f009b2a3ffda basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTAGCCGCGGCTCCACA
++
+ES@A?>:7789;:6103566:<@HHHIMJKIEEDCDFDFAF????D>>>??MFGEMHH?A?>84/+((((%$().7:;>AD@;;7
+@0d66fe83-40b4-4168-be91-69b18ad3c901 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=58 start_time=2025-03-19T16:40:18.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=0d66fe83-40b4-4168-be91-69b18ad3c901 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATCAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+615:;IMNNGHECDDIFJFFIFEEC:---.A><<>(((AGSFJBKIGSOSKGELLKSNNNIGGGFEFIGSDLFRCGC@@CB>0001C9CC
+@0af84b4f-3459-48b3-9c09-1269c6d61292 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:40:51.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=0af84b4f-3459-48b3-9c09-1269c6d61292 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTGGCCTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+IHIFEDDA@BBDEE@@BCDDG>99900/'&&&''(,:?744499:KA>@AB=<9:74/,,..0552456;<888000<?C:866799.,+,
+@6cd8fcb4-686e-4157-91aa-4628170a1d88 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:40:43.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6cd8fcb4-686e-4157-91aa-4628170a1d88 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGAAGCGGCGCCGCTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTAACGGACCGGCGCTGGACTGGCA
++
+@<??@DDC5)&%$%(,,,+)(*+/.&%%&BDDDDEFMHJHOGHBBBAGKIIHKJLG>>3345434)((',)((*><--,&&&&'68<<
+@d196e143-98f6-4e45-832f-6068dc64397b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:40:45.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d196e143-98f6-4e45-832f-6068dc64397b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+@B71022983...>:;;<B332-..***%$%(*))*+;99:?ABBKMJJGKGMGMKSI?@DGDIGC@ABC@ADMFIFJKJLICCBAD=EBC
+@67f96cb5-7bab-478f-9629-e671acf0dcab runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:40:40.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=67f96cb5-7bab-478f-9629-e671acf0dcab basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CACTCTCTGCTTACAGTAGCTATACGACGATTGACGTGAGCGCTGACGGACCGGCGCTCAACGGCA
++
+666744335699:<<<876687111/220001+****++,,.++,-../6667:92221554+++0
+@e0776a13-6125-4dc7-ab33-88d3198a2220 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=124 start_time=2025-03-19T16:40:39.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e0776a13-6125-4dc7-ab33-88d3198a2220 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+E:(((DFHGHKLJIPJKMOSGHHHJGLHLRKEOPEECDFLKJSHHKKSJIFEHJRGEBBC@@?@HGMBBDCHFFBEEDCMF><<=?GJFE
+@41a473d6-eaa4-445e-88c9-8c564d0675bb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:40:26.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=41a473d6-eaa4-445e-88c9-8c564d0675bb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCA
++
+<=BEFEEDHDOFSKGSMHSSMSGI??>=DCIAI<DF?
+@1c681657-d22f-43f7-89b7-57c6369c65eb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:40:30.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1c681657-d22f-43f7-89b7-57c6369c65eb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCA
++
+@D?;;>>?A@@@AC@BBFHDGCCEE777722..01>=@FIFFIKKHGGIIG****FDJKPMHKJGDACFJIEEJFDJGMIGD
+@6b1be969-12cb-4d33-b3b1-e56b602c89a9 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:40:50.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6b1be969-12cb-4d33-b3b1-e56b602c89a9 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATCACGAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+AD5//@@ADFCDDFGCEJSEIG?>>=>?=---.>=GA@@DE==<=D@<==:870..-++,('&%*/0012:;;?<;=CEHMSJIIFEGBA>?
+@224a912b-7abf-4f7f-baa0-5382bc33391d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=21 start_time=2025-03-19T16:41:24.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=224a912b-7abf-4f7f-baa0-5382bc33391d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGTGCTGGTTTCATCTATGAGAAGGGGAATGGATTAACCTTAGGCCGATA
++
+=?CBDB62///---**+,&$$%((')+-+++3459995432***''&&(#
+@65433131-929d-4771-adf2-8fbafb18dc88 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:41:24.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=65433131-929d-4771-adf2-8fbafb18dc88 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+*+/04,)(/065566=CBCBAABB;;JFIGSQQEEEBBAA
+@770c1eda-18ea-4e1d-b338-df913ed3f422 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=46 start_time=2025-03-19T16:40:56.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=770c1eda-18ea-4e1d-b338-df913ed3f422 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCACTGACTGGCA
++
+OLFDFCHHSGKHFKDKGJSIQSGHFEMSIIEA???FHFFGGOGKELJHDEEFJIHJGHIESFGCEFNG>@A=;999799'&&&&&'65>>
+@5ab11456-4c8b-47c7-9dab-86f6d48537ae runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:40:57.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5ab11456-4c8b-47c7-9dab-86f6d48537ae basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTTGGCCGCGGCGACGTCATCTGCTATACGTAGCTATACGACGATATGCGTGAGCGCTGACGGACCA
++
+2.)&+&633001++*&'&&,1002BEGGDIDEEFCDDCGDFEGELKJFFHIFIEFHEK77655:9:2
+@be4a6fb7-33b0-4904-84a5-3d069650cc3a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:41:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=be4a6fb7-33b0-4904-84a5-3d069650cc3a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTGATAGATGAAACCAGCACCTAAGGTTAATCCATTCCCTCCAATAATGAAACCAGCACCT
++
+77@BAEACEFDC@?<?=='''456;<@ACFEGEJGA>=56@AA?9<8:99:?<=4332(000,,+66:;<:;<=>=:
+@aa017308-c13a-4f3b-82ed-e65371c56f8a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=82 start_time=2025-03-19T16:41:57.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=aa017308-c13a-4f3b-82ed-e65371c56f8a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACATCATATAGTCGTATAGCTACTGTATAGCAGATGGTGTCGCGGCTCCACTTTCGAA
++
+HRKSNSHGSHQJKNBAEBLEF2001444444&&&*102/+,.05;@<<<<=AAABEFEEF;:95(%%%'('&6;<=DF88673(;;;
+@e664e9f1-f480-47a8-9062-4e27072b697c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=82 start_time=2025-03-19T16:41:53.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e664e9f1-f480-47a8-9062-4e27072b697c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCAGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAAGGTGCTGGTTTCATCTACCTGGAGGGATAAC
++
+01A@@?B@A=;666597.'&&(.=?<<<<8777EESGJBCC@AAACHHHEEDEGFDCB?AFCHF@?>?CJJFDEACFILJGIIJHHG=;;<GLSSDD3223H96544/,$$$%')*)%%$%%
+@0370033d-68ce-4558-982b-1ba08c6b2e6f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=82 start_time=2025-03-19T16:41:49.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=0370033d-68ce-4558-982b-1ba08c6b2e6f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+=?63337541---??CEFIGLJLPILSJJJSED87779EIFCBDDLB<;987835:54585350/00158779<AFQRJHHNGECDODIFG
+@225a94f1-e911-42f7-8b09-9568d36e4d22 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:41:45.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=225a94f1-e911-42f7-8b09-9568d36e4d22 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTAAGGGTCATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+DDFGHB>>?@SHI:68HGIJMFJIGFD:88;>BEDJ=><9//67--***+78BGCHNRNEGGOHDFE@@@BCDA@?4335
+@5b1e8696-47d3-4f03-bee4-194be0a4e38d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=44 start_time=2025-03-19T16:41:45.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5b1e8696-47d3-4f03-bee4-194be0a4e38d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGAGAGTTAGCGGCAAATCCTTTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCA
++
+D>=>?DFB6&%*)'&$$$%&&''&%##%%'%%%&(()44333./000026676654334589998877666677666566554449:
+@afc907b2-13ba-4e84-88a0-a8235701ddbe runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=106 start_time=2025-03-19T16:41:40.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=afc907b2-13ba-4e84-88a0-a8235701ddbe basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+1001:54+**('(*;EJEDGEFNSKJF,,,,IJJFEKHINHSJDCC=?DEIJH?CAD====CCECDACD>@@A?>***(%%%*4577
+@4f640e00-fecc-4998-a320-621161eb99fe runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:41:37.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4f640e00-fecc-4998-a320-621161eb99fe basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTAGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+=?<;645587777767679899:;<4444'''(89<:8555,,,,999;:8889922'''%%%&((**+21---38:?@ACDCDBBDBBBC
+@9145bc87-8e43-4ec5-b3d3-4a1f912cde14 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:41:36.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=9145bc87-8e43-4ec5-b3d3-4a1f912cde14 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTACATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+F>=<=@IL655@>>----95666:9(''(89;<KGLFHGFEEGHD?G>;;<=HFDDOJGDFJG@>=:55;>@=<>=>?IF@A@>8868CEHC
+@7e40ccea-a96d-4195-b827-19cc5385fdc7 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:41:37.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=7e40ccea-a96d-4195-b827-19cc5385fdc7 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TTGAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACAGATATGACGTAGAGCGCACTTCACGGACCGGCATCAAACGGCA
++
+>-+,,B=;9::9621)))((('..+++(-./5/0--++,*****,//))*)+'()(&**,/../15330010*('&&'&((-)),*))(*)))?
+@05b2a058-16f1-41a5-bce0-dcffc8c230f3 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=9 start_time=2025-03-19T16:41:40.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=05b2a058-16f1-41a5-bce0-dcffc8c230f3 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+0/-0-./169??ED@>FCHIEEJSKINPJIKBFFGSPHMI
+@dfb37611-8d9d-4704-a41a-aea75afbc0d2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:42:30.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=dfb37611-8d9d-4704-a41a-aea75afbc0d2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CCCAAGTTAGCGCCGGTCCGTCAAGCTCACGTCATATCGTCGTATAGCTACTGTATAGCGGTGGATTGTCGCCGCGGCTCCACTTTCGAA
++
+**.,+&',(()668:FSRJIIHEGOMMJB@<<=<>=@FHS??>>IDCB<6//.-0/**,+,,((())),----334CCBHDCFABEBGSI
+@c6721eb2-6654-4caa-8926-1d2d44cb5599 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:42:26.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c6721eb2-6654-4caa-8926-1d2d44cb5599 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGAAAGTGGAGCCGCGGCGACGCTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+=6557BAC@>8887:///(&&&'*+.8>===CBIHFGHEEEDS>JMHIKHECFDD??><>..1.--4343.-.779<9:==<AABBBACC
+@1b08b9f0-f672-4f51-93b9-149763ec6dd6 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:42:22.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1b08b9f0-f672-4f51-93b9-149763ec6dd6 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATTACAGTAGCTATACGACGATATGACGTCAGCGCTCTAGGACCGGCGCTCAACTGGCA
++
+F>A@BFEC530+**+359DABA;;::=A>=;<?AADDDDAB:77::EDB@ACHJHHNFDBAC''''///-+$##&455HE@A@>988:DDHD
+@27ffe74d-53f6-4829-b8e7-09380ca6c6e8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:42:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=27ffe74d-53f6-4829-b8e7-09380ca6c6e8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTGGAGCCGCGGCGACGCTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+CBDD>AA:?C:998:9'&&&003334DDF8766<;<;<BMGCDDCHGLSNBBCBODECCMFIDSEEDHLIFDF98844448;>C?
+@990f572d-0b98-4944-ae60-801524b237fd runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=44 start_time=2025-03-19T16:42:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=990f572d-0b98-4944-ae60-801524b237fd basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+0)),,AFNCCDEC>>==CACCDFEDDF><<<EJGAAAAEFFJGEDCCBDCCBACECEF@A@?CB9997;99:>AFFEF))))+**+=<EC
+@8936debf-0d9b-489c-9eed-6860250f3f95 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=44 start_time=2025-03-19T16:42:03.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=8936debf-0d9b-489c-9eed-6860250f3f95 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TTGCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACGGATGCGTGTCGCCGCGGCTCCACTTTC
++
+(&%'*+.*)(**(()-)&&(2&%%&''&'-,/2:;<<?>A9888===??=;;,&$%),*(&%&56588793201)&%%*+7.
+@c6322bc9-593c-41e1-9794-4603f0366c09 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:42:13.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c6322bc9-593c-41e1-9794-4603f0366c09 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTAGAACGGCA
++
+>=BDD?=>AAGHSF@IIDA@<;<=DFSHEHKSGIHEDDEB21027:01--.889EA@A=??;<=?A??BAG====FIIFLFEKMNQHJFEGC=<::;>>?=100**''&)*//2-)**),+,+**+@
+@9ae31e60-82d7-4d3c-ae5a-4d43e15bdc1f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=46 start_time=2025-03-19T16:42:16.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=9ae31e60-82d7-4d3c-ae5a-4d43e15bdc1f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+%'(0559:;<?>?>?FEHSKEIFBD@@BEAAB:9767-899=>5556;583;<<8889?6BAB
+@fbbf2722-55bd-4ee3-ae22-82ffee255ca2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:42:13.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=fbbf2722-55bd-4ee3-ae22-82ffee255ca2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGCGCTCAACTGGCA
++
+*''*,/89:9865667455688777667::;=?><<=>?=<<=<:99;:=<<??@=<=<=<6555333///*)'(.-(&*(%'(.154;;
+@3f7a3071-0521-428c-803e-8bcbc4420eca runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:42:59.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3f7a3071-0521-428c-803e-8bcbc4420eca basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGCATCGAAATCCTTCGCTTCCGGATGCTTCTCGGGATAGGCGAACACTTCAGATCTCGATGTCGGCGTGGCGCCGCTTGATGCCGGCGACGAGCTCGGCCGAGCTCTGGTAGCCGTCGGGATGGGCAGGGTGAAGTAGGGCGTGCCGATGCCGCCGGGCGGATCGCCGCGCAGCGCCACGATGTGGCGGACGCCGACCTCATGATAGCGATCGACGATCTCGTCGATCTCGCCGCGCGAGGCGCTGAG
++
+666;FHH@SKBB3@-,.((44>5BA=<:===D=;73.B<;;;2-,**&%&&$$&2333;>CHGGIEECBDABA=<878@=ADHLDASLJSS>===H><8=D42217337ADHJFECA00029940.+&&'+39:0//.--.1,+++><>==DF>@?>FFDBG@=<<=BKIJJFMOFFGESGIKDGIDABBAB;988C?<<;;GFEFCIGA:?.,,*)('(1,-/0102///:>><:75662-2485+(&
+@e857f2b3-f4b2-4f6f-8f51-1bb14c256d98 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=1 start_time=2025-03-19T16:43:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e857f2b3-f4b2-4f6f-8f51-1bb14c256d98 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTAAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTGCCAGTTGAGCGCCGGTCCGTCAGCGCTCACATTGATATCGTCGTATAGCTATTATAAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+??DB@B:=39628657==>>BBHLIEKAHJIHCEGIA@@AAEISSSSIBFEEEIEEIEHMGIHGCJGFSENJECBDCHFEHKSGCEC@@@BDDD::::;3445779:@5331221667H;:;4511=98856,+**./-/20/-,*)*+23******?AAGC7778H?FED
+@a8f1a5ff-48ef-48d5-b878-cc9b9f8c09bb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=106 start_time=2025-03-19T16:42:54.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a8f1a5ff-48ef-48d5-b878-cc9b9f8c09bb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGTGCTGGTTTCATCTATCGGGAGATGGATTAACCTACTAAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+CKFMGFDIFAA=987888(&&(70,,,0..0-,*+*(%%)27>AA?B3CDEECDJNDIHHGJJNINFDFKSECCIHSIS
+@728a035b-27c4-449e-835a-4ff8f3ba2a98 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=21 start_time=2025-03-19T16:42:56.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=728a035b-27c4-449e-835a-4ff8f3ba2a98 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACATTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCACTCAACTGGCA
++
+HHC?=DFA888EBG>>863432341,-00001FEF>>=<ACFCDFDFGGHIGISKSIHSNJFEDCDCB7558=<<<<A=((((:99:@CD<
+@48902d65-158a-4fa9-8c3d-8fd385755759 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:42:50.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=48902d65-158a-4fa9-8c3d-8fd385755759 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTAAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+89=?=><<;;==?>8888=::::>>>??@BEBBA@A>>96-()(%'$&'.56898;@>DB??>@CBA888=DFEHEFFJF
+@cb6cf9db-3844-4d06-8fb5-2718918c1d57 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:42:49.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=cb6cf9db-3844-4d06-8fb5-2718918c1d57 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+@FA:878632//099:<?H5444CD8888EG;:::EBCBDEBBBAGDCB?531+***/077675/////9<<==?CCEEDDSJIJGE:HJH
+@c995d9c8-d5ec-4e4c-9726-a472750bca06 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:42:52.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c995d9c8-d5ec-4e4c-9726-a472750bca06 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+ATGTTAACCTCGTTAAGTTTCGTATTGCTAAGGTTAATCCATTCCCTCCAATGAAACCAGCACCTAAGGTTAATCCATTCCCTCCGATAGATGGAACCAGCACCT
++
+"##$%##$#$#$$$%%$$'(&%&'((&'('*,-21+00,,+)(&'/./.())&./1>A<<=<>=6-+,42('''(07D>9:C=GD@@@>;;:-('.(62:B?@@A
+@38109c51-1e64-49ec-82cd-8c9beb3197fb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:42:51.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=38109c51-1e64-49ec-82cd-8c9beb3197fb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+2-056BBA,)()'&%')2;;;:666*)))*225597545<>ACCERGDDEFHHENLHKHA@////)(((,,.00+++55***)+++,;=@8
+@85e41356-8e70-421c-88ac-15971ff64561 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:42:35.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=85e41356-8e70-421c-88ac-15971ff64561 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGCCGAGGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCA
++
+890,***+**)++-))..))*,1055<==@EDE@?>?EESJGGIL>>>>MMJGHFBAABDC?99@?CEHGFFKKGCDE@@@@G?
+@73591d92-bc36-4d4e-b981-ae6ab771202b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:42:29.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=73591d92-bc36-4d4e-b981-ae6ab771202b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+GKKHIFHGGED;;;;EGDHEKJK><<=EEEDIKSHIJHKIFIFEDCED7667:;9:;CCF@>99:J>GIHI;;::(''*<;==
+@20736212-773b-4f67-ad2f-0c6c8be1449c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:42:29.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=20736212-773b-4f67-ad2f-0c6c8be1449c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+;45BCHIJC<4BA??C<<;;:9***'%&$%((++39:---,**+,-=>;<>@CCB>:;;@D??>?=>?555,,,:;;FC9999???A@><1
+@ed1102b2-8390-41f6-9d45-418fe4cc3938 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=65 start_time=2025-03-19T16:42:45.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=ed1102b2-8390-41f6-9d45-418fe4cc3938 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGAGGGTGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+707559DLHAB?>>=@))))*(''$$##$%')+1//06:;=EEC>CCCDELSFFCBCDLSGIKMOFDABGHAAA?@?8644658=....&&&'+***
+@51ea9bb8-bd90-4e7f-bd4e-0934d5d96ba2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:42:50.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=51ea9bb8-bd90-4e7f-bd4e-0934d5d96ba2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGAGAGTTCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGGGGA
++
+@:999?CA5,()&'$##%29>>>?@?AC=<9:FIGEKEHHSMKJGSHRGHGJJFHMHGDDSJSLHECCDIL@AAC?;;:000,(''*++++*)
+@dd67e510-5f0f-4001-8dcf-70b3ab5bd019 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=49 start_time=2025-03-19T16:43:17.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=dd67e510-5f0f-4001-8dcf-70b3ab5bd019 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+F<988;52103543223DIKHEJFEB<<;<>@BCF7777ACEDGHJHEEEIJSGJSEFEHJFFFEB@@42//0=>??FB.---,**+??@>
+@b5488313-6bd4-4de4-83b9-f54d22459a7f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:43:07.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b5488313-6bd4-4de4-83b9-f54d22459a7f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+1230.--,./200.(/))+*10.--./81))))3678CEEGKGSSPLHNLJ9999LNICCMLSEFD??@DB@?=9:7@@BEFDAAA-(<=>
+@48bcb136-69c3-4017-b712-f4745cd26c38 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=49 start_time=2025-03-19T16:43:05.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=48bcb136-69c3-4017-b712-f4745cd26c38 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TTCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCACGCTGACGGACCGGCGCTCAACTGGCA
++
+;0(455?B?///22-++*/0011012144,**)('':=<=AAA@A?CAA=<?><=>B?@@==.,,.'%&&').(((8;??=C::9:4224<4<@
+@1c088422-4e41-4818-bcf4-900ee84fdbeb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:43:10.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1c088422-4e41-4818-bcf4-900ee84fdbeb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCATTACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+.-..053>>:88888721113368-+**::<44''''*)&$$$%')0117;:689=BBBFEFGFEFSDFHIEFE?5554....DJJG
+@49cdc857-60c7-405b-8519-9b57aef4f31f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=46 start_time=2025-03-19T16:44:10.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=49cdc857-60c7-405b-8519-9b57aef4f31f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+>>>BSGIGHQNFHLDJIEKMGIHKOSJDGLERJKHFFGBB
+@45f2a9d8-0055-4ea3-bf3e-a32d2309709e runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:43:59.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=45f2a9d8-0055-4ea3-bf3e-a32d2309709e basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAAGTTAAGACCTAATTTAGTCAGCGCTCACGTCATATCGTGGTAGCGTTGCTGTGGATCGGTGTCGCCGCGGCTCCACTTTCGAA
++
+30-,,**3,)((&$$$&%('&$%(+-699:42222<<CBC>:;3322&&&%)&%%&('&&'+$$$%6+*-5/=AB@A@A<?>><7BAB
+@c7ee2639-7492-4e90-93fb-738186038849 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:43:46.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c7ee2639-7492-4e90-93fb-738186038849 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TTGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+=,***:EBB;;:;==?=>??BA6667>=9788<<;;;,,,->>>AA@?><>;<<<F?@?AC/../666+++**..1.0843323336>6A:
+@67643e79-c540-4fb8-8c25-5e48659afd01 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=44 start_time=2025-03-19T16:43:44.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=67643e79-c540-4fb8-8c25-5e48659afd01 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCAAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTACAGCAGAATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+568777?@DDECCF>>=>A....//007444660///8<?>>AABFEBCIB?>0.,*))*--,,)'('(+0.-045?CFEBNKEDEIFCGCE
+@eb96d4d0-b018-4b2a-96c3-313bb1859fc8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:43:52.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=eb96d4d0-b018-4b2a-96c3-313bb1859fc8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTTCGAAAGTCGAGAGTTAGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCA
++
+B@FFBDEEHGKLSIGSHKSSHJSJDDDDIFHKJPLNIEFFF8>?@DKE*(((,,)('&&'-.:9989;:9;.-.---/BFB@AECEEGFHDBCFDBBB>=??@A22321036;>AFJHESJLIIHGM
+@bf524ea9-223d-49a0-b6cb-7450f2b1ee73 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=17 start_time=2025-03-19T16:44:52.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=bf524ea9-223d-49a0-b6cb-7450f2b1ee73 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+HDSIMSFSJIMJIHCSHFISHFFJSMLEFESMFJGSLNLM
+@6dee3248-19b7-4854-b3e8-3958cdebf9a1 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=3 start_time=2025-03-19T16:44:24.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6dee3248-19b7-4854-b3e8-3958cdebf9a1 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTA
++
+>B?/)))??>=>>JHJEGLJJGFHIDFEDAB@@CFLGDB@DDFCEIFFGD?<;8632'')'')*,))**/12229=?CEIKFB@@@SE
+@9bd35423-e44e-4e39-8edf-454baf4ef6c6 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=44 start_time=2025-03-19T16:44:13.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=9bd35423-e44e-4e39-8edf-454baf4ef6c6 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCGCGGCGACACTCATCTGCTATACAGTGCTATACGACGATATGACGTAGACACTGACGGACCGGCGCTCAACTGGC
++
+?AA@@???ABD>>>?DFGEJC?>==BAADCEDCCCBACDCCFFHBA@@?(''('(((;;;@A?CFEBABC;3333CEB
+@52dc9fb7-1baf-4135-9130-6ac02b7ed122 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:45:26.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=52dc9fb7-1baf-4135-9130-6ac02b7ed122 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTAGTCTGCTATACAGTAGCTATACGACGATATGACGTGAGGCTGACGGACCGGCGCTCAACTGGCA
++
+IGIHFGKRJ?IHJFDD;;;321.-+'&'&',,:;>1///@@@BCEIFEEECBAB@E;99::CCJFA@222265666DF???>?>>AG=LF
+@cb440561-b756-4aed-8b88-b621af98ee3a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:45:26.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=cb440561-b756-4aed-8b88-b621af98ee3a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTGGTGCT
++
+4367;212=>ECIC@>62CA?>?<::;:;?FA:9:==>??989<==
+@913b02d3-8256-48ee-83cf-4fbf50848586 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=56 start_time=2025-03-19T16:45:16.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=913b02d3-8256-48ee-83cf-4fbf50848586 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTT
++
+BBA;510/234561151651111568<==>>=>CBJIEIHNJKFLIMPF?F5444EEEEFGGDA3323=GB??>>B@A=AGB756)
+@701b1f95-8f62-4962-8ecc-2d7c0162a36c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:45:08.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=701b1f95-8f62-4962-8ecc-2d7c0162a36c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGGTGTCGCCGCGGCTCCACTTTCGAA
++
+7768>=<777:32/,,,+&%%&'(()*574467CBABFBFC;::;G=98<-)(&%&&2-.0.,*'%%&'',,,+-6@CDGJ>?=>F>;:9
+@3472b22b-2327-43b8-bc65-9270b0bfc8b1 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=49 start_time=2025-03-19T16:45:16.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3472b22b-2327-43b8-bc65-9270b0bfc8b1 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCAGTCAGCGCTTGGCATATCTCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCAGCA
++
+JH?;99;BCAA@@A865-&&&%&&'&(('%%%''(--,*+8<?BCEFFEGIBBBBIK@?@65461112;F@<<<:<544466/+&%
+@0ec54d8e-da5c-4d9d-a66d-fce549f64e9a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=94 start_time=2025-03-19T16:45:05.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=0ec54d8e-da5c-4d9d-a66d-fce549f64e9a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCATTTGAGCGCGGATACCATGACGCTCGCGCATATCGTCGTATCACTCTATAGCGGATGGATCTAGCCGCGGCTCCACTTTCGAA
++
+45)&%%*)---./**%%$$%%'+,0236/,,-0.((-49:9<<:99:@@=><<:::6760.)()('&&*+-/0:===;4321<30..
+@08d335f3-9f60-49bd-b924-f330f6dfb811 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=49 start_time=2025-03-19T16:45:06.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=08d335f3-9f60-49bd-b924-f330f6dfb811 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+99942-,*++)*+7689<C:::5678A=***:;@@DDHC@?95556,++,1..*'(***+*+/122124:*)*3,-777641)((062:;;
+@72a100e2-3938-47fa-87bc-a7ca22652892 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=56 start_time=2025-03-19T16:45:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=72a100e2-3938-47fa-87bc-a7ca22652892 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+99:=A<9:;EADIIMSDFFEFDDDBGFIIAABBGGGGGIHKKMFSGGGSQGFE<<?@@B:::<EEDCCDEDNJ<<<8+++,EES=
+@728b4d38-bf87-4394-8ad6-5afad35590cc runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:45:13.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=728b4d38-bf87-4394-8ad6-5afad35590cc basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGTGGAGCCGCGGCGACGGGCCTGCATCTGCTATACAGTAGCTATACGACGATATGACGTCCAGCTGACGGACCGGCGCTCAACTGGC
++
+0.//5677866)((&%$$%%''$%'$$$%%$&&':=<<@=::ACM1000;8552))--,,*)*,..044449:;>=:((((7678;;:
+@e4098738-9017-410e-a768-85d5734eb045 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:45:14.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e4098738-9017-410e-a768-85d5734eb045 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTGCGATACGAATCTAAACCAGCACCTGGT
++
+2012</,/59<;>A-,,-/.--...('&%%%$$%;C>FPMSSLJIP
+@5f0abc1c-624e-4bd5-9197-50ebb0d97bb2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:45:57.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5f0abc1c-624e-4bd5-9197-50ebb0d97bb2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCA
++
+HSRFF@?6666;;EEFIHMAAAJGJGDEFCCBD5555CHJQHGHPGFEAAA??=9:75446BBAA?@@@FGGEDCB55555436430($
+@fd0467eb-9865-4a79-9b90-3b2f0b3116bc runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:45:35.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=fd0467eb-9865-4a79-9b90-3b2f0b3116bc basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GAGCGCCGGTCCGTCAGCGCTCACACGTCATATCGTCGTATAGCTACTGTATAGCAGATGGTGTCGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGAA
++
+67>>:93.;<?N=<8333...(&&'(./88=<>4333<==E77777CE>>???<=@@?92---88;<3(*33><;;0///CD@AAA@:9.,++-)(()*,-.346
+@6c13e569-3ba4-4525-ba90-3da57fd930f8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:45:33.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6c13e569-3ba4-4525-ba90-3da57fd930f8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGAAAGTAGAAAGTCGGCGACACTGACCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACT
++
+6477<@>-,,230/,))(/00*))'&$$&&'&&&;@@AHDHDEDIDDDDB?>?ADDDECHCDDB>=<8767;<556CB<<<<BAAB
+@d2b95b22-a5f4-4ccc-b8a5-443399926c6b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:45:30.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d2b95b22-a5f4-4ccc-b8a5-443399926c6b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+/...+&$&$$$%/68:@@>?BBJIKHHGGFGLHHFSKNJLLOJINIOJFLIC=:89:===?C=<;<>ABFSLHKSJGG9.../C8GF
+@b5dc246b-6c28-48e6-b7a2-b816cb35f491 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:45:39.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b5dc246b-6c28-48e6-b7a2-b816cb35f491 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCGTCGTATAGCTACTGTATAGCAGATGAGTGA
++
+=>?<:9<554588<::<=B8988==999650'&&&68778:544456742+)'&')-13468:@E
+@1f7a9427-3801-4dda-8fea-511742322d03 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:46:34.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1f7a9427-3801-4dda-8fea-511742322d03 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTA
++
+771'&&-/24+***0-.0**'&&'0288ACCGJGILSHJGBBABJLGSHG><<?IMFCE@>;:6311395121,57ACDHFCHEH
+@baaeed1b-af31-43e3-8e16-fa73ac8a8c12 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:46:32.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=baaeed1b-af31-43e3-8e16-fa73ac8a8c12 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTGGACTGGA
++
+;44445B?@CEFDBDE===AOFB@@A;<8944;A@?A?@AAACB>HCBBBEGEIKJMSNFGFHDFDCF??>=??@DCCF211++++.3/2
+@7b72696c-c3bb-4d3c-b253-d8c38b5370f2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:46:28.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=7b72696c-c3bb-4d3c-b253-d8c38b5370f2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCAGCGACACTCATCTGTTATACAGTAGCTATATCGACGATATGACGTGAGCGCTGACGACCAGCACT
++
+9+)))096*('&##%((*))(($%'+**'))*22129;@CFCC92(&&(8:<CJB@BAB:9::?><--,*)*-/..+)&
+@b41d07e7-d2a1-43c3-bc7e-0132d7f9f83f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:46:22.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b41d07e7-d2a1-43c3-bc7e-0132d7f9f83f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTGCCAGTTGAGCGCCGGTCCAGTACAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATCATGTTAGCCGCGGCTCCACTA
++
+6557C??@KGILKJIHKHLIJKSIEGGDGEGSASGIFSOPKGKJEGIHSGK@???BB9520,('&%&&-('((01/.0028:><?@?FEDCHFBCBCFGG=>@<64)%%%%*'())19<==?HJFCHE
+@d1b28b43-8fe5-4569-a07b-0c2baecebc10 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=70 start_time=2025-03-19T16:46:06.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d1b28b43-8fe5-4569-a07b-0c2baecebc10 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAAGCGGATCGTATAGCCGCGGCTCCACTTTCGAA
++
+GFHJBFGGBECCCB<;;/0)-'&&')&')(''(//7:?4110055633455776877/-,..++*)((&(((+--54768DC::;;MCDDG
+@9d5d02f5-f051-41e3-8818-6f01c3db136a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=70 start_time=2025-03-19T16:46:05.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=9d5d02f5-f051-41e3-8818-6f01c3db136a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGC
++
+/../0'''&&'+079:<;8888;??@AACBA;;::@??>?@>==899=>@@C?:988100120016///667974
+@cbc7ab02-ac6d-4ca8-bcb6-11b9a6ac220a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:46:17.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=cbc7ab02-ac6d-4ca8-bcb6-11b9a6ac220a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGGTTCCGGTCCGTCAGCACTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATCGTGTCGCCGCGGCTCCACTTTCGAA
++
+:=2///1,''''''+8;=9::555*)))440/.-0/0;<A>BCBFFKGGFFHFFHEEEJ?>=;1//0FEIGDDFEDEGELCBCBHCDDC
+@2547d5a5-b031-45a6-8f69-b9e207bdc0da runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=21 start_time=2025-03-19T16:47:05.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=2547d5a5-b031-45a6-8f69-b9e207bdc0da basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTATTGTATAGCAGTCAGTCGCCGCGGCTCCACTTTC
++
+CM<<::42239;:7)((+8343445<ACBCB>>??GEGGJECDCEGGC<<:,,,,9944411/-*))(---;;;ADFCS8778F?
+@e1dda7f8-2743-4d07-be16-4f8d561d4558 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=17 start_time=2025-03-19T16:47:03.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e1dda7f8-2743-4d07-be16-4f8d561d4558 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATAGTCGTATAGCTACTGTATAGCAGATGGTGTCGCCGCGGCTCCACTTTCGAA
++
+<?9999DEGD@>>>5618<221116589943///--.02//,,,.;3323.''')*'%'+)))+*))+94320-.,-,,/0..-.8,333
+@f4b08e15-a2a5-4137-9703-aaca6a05166d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:47:00.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f4b08e15-a2a5-4137-9703-aaca6a05166d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+82<?@LISG?=?<:9<ADJDFE9898<<4102DGHGJELSJHMKIJFFHFFEIHGEGIIOKIJOSLJMGLNJIJFSISGAA?6.../A>LI
+@1a5d38d1-2ff3-425f-8c4c-85295afc5a00 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=3 start_time=2025-03-19T16:47:03.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1a5d38d1-2ff3-425f-8c4c-85295afc5a00 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+.---5498@@???6667FFCCA==<='''(:>CEGCPFDA@BCDGFQEEGEG44433389FD:>>?EDGA5554*)),>?@D
+@763850ec-cd45-4221-bdad-276eb2f02d34 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:46:41.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=763850ec-cd45-4221-bdad-276eb2f02d34 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+5---.@FA=2..&&%*-/6455++*,21////8@DDHCCEFJFEAKFDDEHDDBIKIFGGIB@B?=;;88568=CGDDA---,//03<=?D
+@993b7f52-8870-4f40-aaa0-d1db76d8eca6 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:47:34.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=993b7f52-8870-4f40-aaa0-d1db76d8eca6 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCA
++
+66=BABFEGDNEK=B@KBLSSMJA?@@<EDLGFISMI
+@d577132e-03b0-4364-b04c-8aa978a17742 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:47:32.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d577132e-03b0-4364-b04c-8aa978a17742 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+225531.//0766568><988<;;::;=@>@==<;==>==;;:77667776678::9:99:<AAB:::9=>@C@??>?><<=>A?>>=?>=?>??65542/-(''(,(,)))*22228999<<;>
+@0ba6b351-00fb-464c-91cc-3178fa9a9a51 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:47:28.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=0ba6b351-00fb-464c-91cc-3178fa9a9a51 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGCGGCGACACTGGTCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCGAA
++
+CEGKGHFKI@??.**)*,***,**)*2*)))*99:<<AABDEJFNFEDAAABABB=>=8632337>((((.--/)((('&
+@623d8d04-8962-42e2-8524-ce6ecc82c6a1 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:47:28.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=623d8d04-8962-42e2-8524-ce6ecc82c6a1 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+5554BSISKGKGFDFPJ<<<<AA@@?BHKHLKJQIHSMHEIKGCCCJHFFECEEEFCCDEKSIHSJMEQSHMLGGGGFDBDESLKF
+@46984e23-25a2-4c49-9f22-e950d857fb90 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=1 start_time=2025-03-19T16:47:28.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=46984e23-25a2-4c49-9f22-e950d857fb90 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCGTCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+=42218::<66;3478;AEAED@AA9+**+>3211=;;=HHGKIGEKIGDJGJIMKIHHJJHGIGE@A;;9:=:999CB>>?=@@@AH;O@
+@4a34a952-a40b-4098-9581-a16ea252790f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:47:09.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4a34a952-a40b-4098-9581-a16ea252790f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTTACTGTATAGCAGATGAGTGTCGCCGA
++
+FSMIFBB?A@@??A:99;IFCEFFKFFGCCB>72//5B@>?>CBCG20/-+%%((+)(()211112<<=>DHHIIIH
+@c537766c-233a-4713-aeab-86a690389d1a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:47:07.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c537766c-233a-4713-aeab-86a690389d1a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTGAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCAG
++
+BB7555:899@887//,-0++'&'(-.,*+,////019;<=6666>99;AA8555=<;-.;87531---:200/,+
+@cddcb427-739e-4de4-93db-f9eebfa2b415 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:47:14.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=cddcb427-739e-4de4-93db-f9eebfa2b415 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCA
++
+NI;;:BIFED>??>=AADF?A@=>?>::9:??B@@HOGFJHSSHELGFCBC>=<;::BACDBDEG>==<;==A>;:9979HF
+@a2c03b66-a53a-44e8-8c5b-8459ded1b972 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=75 start_time=2025-03-19T16:47:15.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a2c03b66-a53a-44e8-8c5b-8459ded1b972 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCG
++
+:888@AB@ABCKLDDCDHHSLSSSSMGJGGIGEEIEE=<87510/1..1..0>?AD==<987125;<=?@@BB80001?<:0
+@d2bf846e-16a1-4ecb-8967-f1a8055168e1 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=56 start_time=2025-03-19T16:48:00.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d2bf846e-16a1-4ecb-8967-f1a8055168e1 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGAAAGTCGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTTATCGACAATAACGTGAGCGCTAAGGACCGGCGCTCAACTGGCA
++
+''66?@=+(((/'''/37:>??999:=>99=<><=<;((''''&'&&%$$'''&())+77766111(&%$&+,-7213322235?:DC
+@e5a637ab-bd56-473c-b0e5-6e22db34554b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=106 start_time=2025-03-19T16:47:56.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e5a637ab-bd56-473c-b0e5-6e22db34554b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACT
++
+IGGGGEEFEGIIMGHKKISGEKEGHLGFLLIIQEKSEACC@@@@JGFSGIKOJSGFLGGLBGKGNIMJFDED<;;;
+@9c40a6d8-6c00-482c-aff4-d9994ca305a0 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=56 start_time=2025-03-19T16:47:57.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=9c40a6d8-6c00-482c-aff4-d9994ca305a0 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTCCAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATCAGATGAGTGTCGCCGCGGCTCCGCTTTC
++
+.-*(((.+'&&)122+A@AF9999AAACC?>===AABKGIFDA@@AGC@?@432++***)))**(()+288;;=?@?>>=8)(((B5
+@065d03ed-246d-4879-9155-958c33d218a6 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=75 start_time=2025-03-19T16:47:53.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=065d03ed-246d-4879-9155-958c33d218a6 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGACGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGGTGTTTATTCGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+9998778&%$$&&&(/688?@@GOFHFGLJEDEDFFEDBG?@@ASFDECDIFKHGD?<<+))*+**./...0*&&+544@CGAAA<<<=FEEHF@=:9;<543.---,/*(()1200//..**+6999421&$#$%+)*)0-+*)*&&'';>B@
+@34972a74-5d2c-41a9-8452-f2770ecd766a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=21 start_time=2025-03-19T16:47:41.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=34972a74-5d2c-41a9-8452-f2770ecd766a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGAAAGTGGAGCCGCGGCGACACTCATCTTGCTATCAGTAGCTATACGACGATATGACGTGAGCGCTGATGGACCGGCGCTCAACTGGCA
++
+102/::8;;@@B?77445421((((--,,+&&)&')()33558>ADFEEIDGLHIAA?>>4334;42.--.0/.02==3331111:=>>=
+@760cfbf2-aa7d-413c-9ea9-269f91e9e29c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:47:41.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=760cfbf2-aa7d-413c-9ea9-269f91e9e29c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+778:887798754579654555544577:;::878888977778654444689::::;;;;<<;::;<
+@2fdf142f-3e4c-41f9-a918-d68d3a34bbb7 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:48:22.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=2fdf142f-3e4c-41f9-a918-d68d3a34bbb7 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACGGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+-),77???;8:==;;<9:;CJGCDCC;;;;F?<7665432)(('''',8:@CDEFH>>>ADHFEA:94&%$))/668BA22224335CSK?
+@65436e1e-3765-4ccf-9bd5-5f8dc928cd5f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=49 start_time=2025-03-19T16:48:07.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=65436e1e-3765-4ccf-9bd5-5f8dc928cd5f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTGGAGCCGCGGCGACACTGGTCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGA
++
+LIC?>CDE?>;;<444011,--+*(,-/...//0467.,,-0;:<>97:89<@AABEDEDC?<?CFGKDE@BAACDB?9,
+@94640df0-4906-44ec-9d09-14ac47522c2c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=82 start_time=2025-03-19T16:48:08.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=94640df0-4906-44ec-9d09-14ac47522c2c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGTGGAGCCGCGGCGACGCTCATTGTCTATACAGTAGCTATACGACGATATGACGTGAGGACGCTGGACCGGCGCTCAACTGGCA
++
+'&&&1355534347444(&&&*''&%%&'0/..09999:BCD>==>@BBA<22225557742+&'(&&23347444344455344
+@a1de677c-d383-47cc-9040-18525e079c8b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:48:13.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a1de677c-d383-47cc-9040-18525e079c8b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTGCGTGCT
++
+HIF=888::5100:899;A110011134133468776658989<?FCAB@B'''(A??==CCC?><<=9=65445=@
+@96d51c2a-9b49-4542-9ce9-1d98f1eaa7e0 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=106 start_time=2025-03-19T16:48:12.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=96d51c2a-9b49-4542-9ce9-1d98f1eaa7e0 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTATTGTATAGCAGATGAGTGA
++
+JSS;666=EE@9963369@898:?@=@@<.../20126---+---A@@?;;++**///018:>:=?@ACS
+@c384b67c-a5df-41cd-84be-a5e4e3ac58cd runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:48:18.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c384b67c-a5df-41cd-84be-a5e4e3ac58cd basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+A@ABADDDDDDFDDCCDHGCA@@BCABASSDHIEECCA98632345677>
+@8bcd00ad-46d3-4614-8888-b752c04609a6 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=56 start_time=2025-03-19T16:48:45.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=8bcd00ad-46d3-4614-8888-b752c04609a6 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGCTACACCAGCGAGGTCGCCGGCAACGCAACCGGCGGTCAGCGGCGTGATGCGGCCTACACCGATCAATGGACCTTCGGCACCACGTTTGATCTGGCAAAGCCGGTGTCGTGCCCGACGGCACAATCCAGGTCACTTGGACCGACCGCAACGGCAGCAATCTGAGCGACGACGCGCGGCTCGGCACGCTACAGCAGGTGCAGGAATTGTTCGGACGCGGCCAGACGCTGCGGCTGACGCAGTTCTGGTACGACCAGAAGTTCATCGGTGACCTCATCGACTGGAAGATTCGACGGTACACCTCGGCGAGGACTTCGCATCTTTCGCCTGCGATTTCCAGAA
++
+AABIDG=:757B>>>?FF::>/@?AFG==<=RGFFEH;;:8::?DDGI>?>@KFEEISKSSIPFEEEQLIIJFFGPSFIJSCBAAHDAE?7>?>>433,-,0,)+*/2463338=<66669:66'''(;;=@=6-,,*'(26874467;;;A<;<,,+**++//03577856669@@:989:98831)'''*--8:=69::8AGHFGQEA?==?CEGIEFJKNSLKKNQJISGHGFFBEGHSLMSO@@@AN;:76-)5AHFD??@@EHGIHHGFLSQC??@BSF@>9875,++-1201222<<89DIKMHSF;HA34312125<7>?BDLODDEDKDFBDHL
+@267c8400-b95a-415d-a230-bd40d6d29451 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=82 start_time=2025-03-19T16:48:57.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=267c8400-b95a-415d-a230-bd40d6d29451 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+A@BA@CDFIFHPEKSKSFHSIIHJSIFGA?)(((00)'''(-010002:;;>??DHGHISICB@C@2EFL
+@85de7fbd-cbc7-42cd-8886-c89dccca5091 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=49 start_time=2025-03-19T16:48:30.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=85de7fbd-cbc7-42cd-8886-c89dccca5091 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCGCGGCGACACTCATCTGCTATGGTCGGCTTATCGAGCGATATGACGTGAGCGCCGCTGACGGACCGGCGCTCAACTGGA
++
+;99:BACDFPD?>>?EICC=872+)$$%'&&'+*.($$(&''//0('''*+++,(%%$$'(*&&&ACEFEE;;;55557A=:
+@024e669a-1ace-4880-a0ab-a8417ccc2890 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:48:50.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=024e669a-1ace-4880-a0ab-a8417ccc2890 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCGGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGGTGTCGCCGCGGCTCCACTTTCGAA
++
+KGC?>=6.--0221(869>111000066////0::==G><<;?@@SFFGIIHNHJIF@@@444462326434478>BFEJQBBBB=9311
+@e589a25c-3d3d-41a4-b7fe-124e1a2ee942 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:48:36.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=00be318b-5d19-42c3-8002-7b9f351ae0b0 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+B;9:;SJLQKBEAA@CBAA88857756677:9=<>@@??AFGGIRLHD@@@CFDEI;((()224322558522323473---*&&&*@AG>
+@d3944b60-672c-486e-ad7b-13475de9a992 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:48:44.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d3944b60-672c-486e-ad7b-13475de9a992 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCACCGCGGCTCCACTTA
++
+=A>;;;?976443519:@H?A>>??CFFFEG<<989866=>=ADBEGFHEEFDFICB989882/*)))-.+''((1*)()02))))<
+@a41fd25f-edf7-4c06-bd56-802ae61ea79d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=54 start_time=2025-03-19T16:49:38.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a41fd25f-edf7-4c06-bd56-802ae61ea79d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGAGACGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+,(*.2@?;,%%(&%&*;?=>>:;;97:/+-''''?A@@AECEHIHIGGGEHJFKFCDABDBAABDEC;:9;<IJNIIKGGEA5446C9GI
+@4b7e7e1e-71ed-45b4-bff9-d84fbf4b6aa2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:49:11.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4b7e7e1e-71ed-45b4-bff9-d84fbf4b6aa2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+DECD?AADLFECB@601233<;=?@BDC@;;:;AAC>?CDIIILHGBBBDDIICA:7***))())%%&&55556=@CENLSHHHEJG=DAA
+@d29bf942-a73f-4427-b2d6-2fcddec0925c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=17 start_time=2025-03-19T16:49:14.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d29bf942-a73f-4427-b2d6-2fcddec0925c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGTGGAGCCGCGGCGACGCTCACTGTGTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGA
++
+&&''))'''')&&&&''$$$$)&%%&+-()<@??@>>>ACD<8778.+++::<=CDIDHGCACDLSHFF>FHHEAA@AJEGGEG
+@0fa878a1-5021-4299-a3dc-5450fcd82fb4 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=21 start_time=2025-03-19T16:49:09.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=0fa878a1-5021-4299-a3dc-5450fcd82fb4 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTAACGACGATATGACGTGAGCGCTGACGGACCGGCGCTAAACAGGCA
++
+EABBBESSMKONGKJJHHIHSP=<<>CBAAB=945FGEDGEFNEGGEEED@;;FBCIFHGIGLJ?>>>AB;33576;;998+&&)-.01;
+@9bfca37b-03b9-49ed-bfd4-5dd88cdfe8a2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=75 start_time=2025-03-19T16:49:18.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=9bfca37b-03b9-49ed-bfd4-5dd88cdfe8a2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGTGCAACAAGTCAATCCGTTTCCCAAGGAGGCCTCCTGGAACAATGAATTATGGCGCCAAGACATGGGGGATCCTGACTGGGGCGCCGACCTGGAGAAACAATCCCGGAGGTGCCAGGATCGTCTCTGGAACGCTCCGAAAGTCTTGTTA
++
+8777A788?FKKJ>==>SBE@@:<;+*))3=:569433;=?=A=>>?@@CKDEEEEISA?758522338D?>99<8''(()*/9?6554665834;DDFFC'''(9/),)-*))**&)124423342226ADI43324339;F@<>>>BDF
+@26106413-e4ec-409f-b213-8ff5ecb4fff3 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=21 start_time=2025-03-19T16:50:05.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=26106413-e4ec-409f-b213-8ff5ecb4fff3 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACATTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+C>>=>CKE5*)+)*++-01(((()(''95455<;<CEFDIGSGIFSDDBDE<;;;98999:???=<<?=?@@CBDDCBC;<<9;;?@GGLF
+@c2ce3b08-a330-433f-9b6c-a3963aeb9bad runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:50:20.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c2ce3b08-a330-433f-9b6c-a3963aeb9bad basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCGACTGGCA
++
+51+++74213454545334122////11123798889::6545652222444766668899987667666677665111(''&())16688
+@b92376ec-b168-4c8c-a4cb-c762f7eaa11e runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:50:06.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b92376ec-b168-4c8c-a4cb-c762f7eaa11e basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGTCATCGCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCGCTTA
++
+:;95.++)*)),*+%$%$$)(+%%&%')1011389ABCB??4336;++*+((+,5332./544210--.5400/0-,1-/-.**++,
+@213ba56e-1d72-4388-bde7-fed4cef07289 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:50:06.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=213ba56e-1d72-4388-bde7-fed4cef07289 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTGGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+66710043222334110253333465666774334554432,+,,111155)())854//20001345643223475556989888;8887
+@9209e3dc-9c3d-47c0-9d7a-c706fa67d0cc runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:50:07.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=9209e3dc-9c3d-47c0-9d7a-c706fa67d0cc basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+JCENJIGINSHJ@F:888DB@>>@8;32/((*99<==?CECCKDD::99MBISH
+@03b5bfd4-6074-4ba4-8a21-e0ca696d6efe runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:50:09.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=03b5bfd4-6074-4ba4-8a21-e0ca696d6efe basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCA
++
+*+789-*,12C@@>210/AB3332422256??DGFFJ
+@8beb58fc-9e8c-485a-92da-6f6e2556fa0d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=49 start_time=2025-03-19T16:50:49.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=8beb58fc-9e8c-485a-92da-6f6e2556fa0d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATCAGTGTCGCCGC
++
+GIGEBFGCDDD653256AA>AEABDDBC@---.7679EBBD????FE@::88=?@BC:9988,)''&&'/66<=?C
+@75fc66c3-b718-40c1-9580-d7095dfcb749 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=49 start_time=2025-03-19T16:50:49.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=75fc66c3-b718-40c1-9580-d7095dfcb749 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+<4?@?CDB=1.&%%%(057,,,,/4.,-*,,,++0-.8665EDCECEDDHDECDBACHJHD>H@?????>>@<<=JKHOCFEDGE>===F?B;
+@08bed30c-5eb1-4a1d-bc69-2b78c0f1c566 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:50:46.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=08bed30c-5eb1-4a1d-bc69-2b78c0f1c566 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+008=;:467665777@===99:9@CEFEHEDBBBAADDBC@GEGBABBEGGGFGHDBB3222,,,,../46;;=BA::::?@?AEFD*
+@b60ab5fb-327e-40fa-a26f-dbcf8f505195 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:50:42.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b60ab5fb-327e-40fa-a26f-dbcf8f505195 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+FKEDJBBBBC<<>>@@87665545:;EEB><0000001>C<<<<?@AACF><9:<6101...)))))6766756998DCCCIKF@
+@c1927242-fee2-409b-a0a8-440a8a5c2d6d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=97 start_time=2025-03-19T16:50:25.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c1927242-fee2-409b-a0a8-440a8a5c2d6d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+ACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCACCGCATTCACTTA
++
+JM@@@=>>@BAA@ABABCBEGD<999FED<<8663/.../1+&&&'-(((*.1874
+@f7fc68f8-3bb4-4891-967c-503dfb64cb3d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:50:39.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f7fc68f8-3bb4-4891-967c-503dfb64cb3d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGATGCGGCGACACTCATGTGCTATACAGTAGCTATACGACGATATGACGTGAGCACTA
++
+:1+''*458-+,.-.077656600014;***,<==EGDEFFIIFMG@><;67?AIQJKOGGNJII4444
+@417f5d96-2d2e-43fd-a8d8-f0b0e0e1b538 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=34 start_time=2025-03-19T16:50:36.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=417f5d96-2d2e-43fd-a8d8-f0b0e0e1b538 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGAATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+=?B@??><>DA0/+(((*301124569@<7667:.--08888>@BF9778410*)'&&&)(&&)&&*+,,--***,33667SL>=<>94FGH
+@ce9bedd1-f56c-40cb-8621-078ae3e3ec95 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:51:23.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=ce9bedd1-f56c-40cb-8621-078ae3e3ec95 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCACGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTC
++
+6444==<7666++$%&'''-,,,))*74110156>@EHISDCDES=<<=:,*))33:79:2*%%(***.1///2;>CCCFKDD98D<
+@da1891c7-334b-43ac-8a94-f5e96519385a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=15 start_time=2025-03-19T16:51:18.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=da1891c7-334b-43ac-8a94-f5e96519385a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CTCGAGGACTCGGCGCGGCTTGCGACATTGGCCGAGCAGCTGCTCGACATCCAGCGCTTCGACCAGTGCCGCAATCCGTTCGGGCGCGTCGATCTCGTCGCGGTCGCGCGCAATGTCGCTGCCGATCTCGCGCCGCTGGCGATCGCGGCCGGCTACGAATTGTCGCTCGATAGCGCGGCCGATCGGGTCGACACGATCGGTGACCGCGCCGCGCTGGAGCGCGCGCTGACCAATCTCGTGCAGAACGCGATCCAGCATGGCGGCCGTCGCGGCACCATCACCATCCATGTCGGCAGCGCCACGACCATCGAGGCGCGTGACGGACGAAGGCGACGGCATTGCCCGGGATCAGCGCACGCGGATATTCGATCCGTTCTATCGTCTTGCGCCGCAAGACCGCGGCGCCGGCCTCGGGCTGAACATGGTGCGCGAGATCGCGAGGCTGCATGGCGGTCACGTCTCCGTA
++
+==>98769454255CE999:F>;;:@;;;9<>8HB?>9888=:;87:DACDCCES3333?;;;>BFD@A@AC888663455338AFD<<::=;;9533AJSQILIBDBCJI55565555DSMFECCAE=<<=;978:>CFPOQGGIJHFJA<==/../3>>9<+**-*((*()))94557)))(-,00.-1-,-)*679:=SKKEGGEBC=<<:>;:;DSHJHHJJKLSHE8889H@=>;;,((1**77797;4778977:@FHDAB?@C7777<=<<;<@GJSPLSHIJDHDFISQ////G@=?BEC*(''&&(('+014220235EEKSELABEF775(''.(*,676,))(('%%'5765556.-.3:<9>DSHSJFJISSSMMJIGFFHSJHLOOGDEEGFIGB>@DACIIIQGFFDKSILJNEEEBGILNLJODDCEDC><;;ACDKESJDC@@AB0/00?
+@4ef60d45-d7e0-403c-a1b8-20a415a6bb48 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:51:13.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4ef60d45-d7e0-403c-a1b8-20a415a6bb48 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCGCGGCGACGACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTTGCAGCGGACCGGCGCTCAACTGGCA
++
+8,311/10+)()+('(,/010,+((&')-.22AAB@??@SFJFFELIEBCCDCHINE@===((()-+++*,./002====BA111+''')::;5
+@5e7f29e0-2111-41c6-8334-f848e14e2212 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:51:00.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5e7f29e0-2111-41c6-8334-f848e14e2212 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CATCTGCTATACAGTAGCTATACGACGATATGACGCGCGTGAGCGCTGACGGACC
++
+@>=<<;;@77?EEJLGFEHGSSSJSHA??=D7..('&&''-18:0///@D>@@@C
+@f50df686-6ae8-45b1-9b32-52fb41b0cbc5 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:51:01.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f50df686-6ae8-45b1-9b32-52fb41b0cbc5 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+63<@AFFIDIFGFA@?ACEJECAA?ADDGEDE??FDJEGHGLJGILFLFHGDFHSFGSB@=<<<656333477778=9--,++++-///:
+@8be791d4-20ae-4123-bade-4e9f71b86afc runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:50:53.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=8be791d4-20ae-4123-bade-4e9f71b86afc basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGTGGAGCCGCGGCGACGCTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTACGACTGGCA
++
+GERHJFNIHBB...,**+**'(*&&'()))=?>>DGIHEJSKFGGFFHHSSJSHJSAABBBCG::979:@A@C?:::+(((45CCGE
+@80207a61-06b0-40c0-b05a-71425468edba runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:51:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=80207a61-06b0-40c0-b05a-71425468edba basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CAGCACTCACGTCATATCGTCGTATAGCTACTGTATAGCGGATCGTGTCGCCGCGGCTCCACA
++
+((-/(''(>?6656E==;9:9:;;?@@??932''&'016(''',&'':;;;<;=BBBBDHCD?
+@8e4ffb5f-d070-49c8-8fe5-d423b7f72554 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:51:53.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=8e4ffb5f-d070-49c8-8fe5-d423b7f72554 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+>?>@=>;;8666631230=<;<>CBBBAAADDBBCGA@@B
+@f9d57940-720d-4d4c-889b-42ab6bae4ec2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:51:49.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f9d57940-720d-4d4c-889b-42ab6bae4ec2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+4(;9:=FEA?<=;;;BBDJFGC.--.*+))33668<DABFDJHFKJIJJRIIISKGJSJKFJFFHIDHSGNFEISHJGF??>=>>?C>BJ?
+@03646935-d0be-4f89-b43f-135d3d144dc9 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:51:45.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=03646935-d0be-4f89-b43f-135d3d144dc9 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+B:888=?<0.-.-,+,69;3331444=>>?>?EDGBCABEDDCFAFBA==??RIFC??><<10/.**++++,/2:;;@=8888?@A?=9<>
+@5058d302-5a4c-4adf-b73d-309c85b52827 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=112 start_time=2025-03-19T16:51:59.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5058d302-5a4c-4adf-b73d-309c85b52827 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCGAGTCCGGCACTGGCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGA
++
+('')/355751//+++,,%#$&'%%%$$%&')*/249@ABAA@BAFEDHFDEDI?@@A=<=@HK
+@c7e3a5ef-a4ff-4e85-b29e-dde0e1e9b917 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:51:47.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c7e3a5ef-a4ff-4e85-b29e-dde0e1e9b917 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+53222...02234342222211221001572111330000333522//0144322235543222246354010./0247788
+@d83f6261-4d87-463c-b27a-5cbdd9da0d03 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:52:00.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d83f6261-4d87-463c-b27a-5cbdd9da0d03 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+ACTCATCTGTTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACT
++
+;<GHSLCB=----A@?AKJLIFJMFJDDDCDDDFFFEJHA@@A87600/-+)*)))++++*0013
+@9912ca1d-6696-4517-af6c-1acda3500100 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:52:24.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=9912ca1d-6696-4517-af6c-1acda3500100 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAA
++
+FB?@@EPH@::EBA>?>?@ACBCCEEA@>==?GIEFEFFSFGHKFDDBCCCBCCIHEGDEJFIDE==;('')'''+(,();=;=A
+@ff56282c-1447-49a4-92dd-d92b577d0b31 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:52:17.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=ff56282c-1447-49a4-92dd-d92b577d0b31 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGTGCTGGTTTCATCTTATCAAAGGGGGATGGATTAACCTTTAAGCAATACGTG
++
+>>?FEE=<==B<;:2/-'(*%%%'(*+-,++&%&(,.-../-',++145-*'%$
+@e8253585-b8b8-49c5-b0bb-53533d503013 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:52:39.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e8253585-b8b8-49c5-b0bb-53533d503013 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGA
++
+BAEJIRMGFI=<:888:332245CB>CAEHGMGDDEEMCEECSJG
+@e4155653-f89f-4b32-8973-e2c82913cb27 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=21 start_time=2025-03-19T16:52:15.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e4155653-f89f-4b32-8973-e2c82913cb27 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGAGAGTTACGCGGCGACACTCATCTGCTATACAGTAGCTAA
++
+402==FHC0..7989,+++49<>@@?A?>?BBMEDEIDFSHSGJESD??
+@d72ab635-db04-4d29-9e1d-b97e497ccbeb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=75 start_time=2025-03-19T16:52:25.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=45018076-22b8-47ac-a17a-d775188b1061 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+FGFJGGFFEHKESD@CD@??7666632258C@C@@BBDCE
+@6d40017a-bc8a-49d1-a0c9-d4df8e6cd302 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:52:28.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6d40017a-bc8a-49d1-a0c9-d4df8e6cd302 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCTCCGATAGATGAAACCAGCACCT
++
+;<>AB>:::5323511----./120/067>B@FEDECBA
+@8909b173-75cd-43b0-bd0f-423bd7c84b5c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:52:33.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=8909b173-75cd-43b0-bd0f-423bd7c84b5c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CCTGCCAGTTGACGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGTCAAGTCGCGCCCGCGGCTCCACTTTCGA
++
++++*+-'&&'%(%&&98<>?FBE?>>=55530022>>?>CAAC====FA?@A=;;9:::?78=;6321/369:888528@EGHIS<<<<NDDD
+@a905707b-7b9e-4708-9ae0-06071c9c133f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:53:14.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a905707b-7b9e-4708-9ae0-06071c9c133f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+J==;:DCB)&&((%$').12412215889;@DCEGFIELDBB>IIGFFEDFFSIFINQQNHEJIGFFGIJJCCOBEKIEDEB???AG;LE
+@89cf51ea-aaae-4537-ba29-b06891e2d3cb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=68 start_time=2025-03-19T16:53:07.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=89cf51ea-aaae-4537-ba29-b06891e2d3cb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+ACCATGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTC
++
+100)(''))55757:<?888>@@ABC+))+,1../6>DEEMKNHDDEFFAA>=>>////111111226545846796:;;7889>1
+@70a3792b-49d1-444d-82c5-47e499de2ec3 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:53:01.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=70a3792b-49d1-444d-82c5-47e499de2ec3 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCATGCCCAGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGGTATTAGCCGCGGCTCCACTTTCGAA
++
+>>9/+*+1/-)''((1132-,((+<=?@@@:::;DHIIEBFCDFFCCCBB??8888DB?44,++,'%%$%)$%*,566@FFHIJJJHIJHFI
+@1be529fa-333b-427d-889b-bc1ea5f07151 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=108 start_time=2025-03-19T16:52:54.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1be529fa-333b-427d-889b-bc1ea5f07151 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGTGCTGGTTTCATCTATGCAAAGGAGATGGATTAACCTTTAGCAATGGT
++
+7533111166=67730-.*)'%%&(++**+*((*,-++,/3-.-,,.'&&
+@e70c1302-66d7-437b-8090-ce970a97279a runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:52:48.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e70c1302-66d7-437b-8090-ce970a97279a basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACT
++
+DD<D@@LDGFFDCCCECEL766000((('375565:::;88545=?><=@?ACCFDC=''/+('&'+.-/-,+(((2455?>000
+@dbaa99ca-98a1-45a6-acc4-53046a2e5a20 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=106 start_time=2025-03-19T16:52:57.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=dbaa99ca-98a1-45a6-acc4-53046a2e5a20 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACGGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+/..37BFC@@BA?==?:::555---.66443.+*+**'&&),,-.3..67?@DCECAC;<=EFHH<<;8@BAABABDDD,,+*.--1:7BD
+@19b59956-0486-4f37-8ef4-63ae257efca7 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:52:56.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=19b59956-0486-4f37-8ef4-63ae257efca7 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCAATGCATCTGCTATACAGTAGCTATACGACGATATAGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+>-+*+7EECBCA>==@==;.--&$%&<==>ACB>=<=C?701--'%%%%%&278-,,/000017*))(***+)(%%&'55521133>6N<
+@4e801e10-ad80-4bc4-af05-31ba1991a97d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:53:19.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4e801e10-ad80-4bc4-af05-31ba1991a97d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCGAATCAGTGTCGCCGGGTTCCACTTTCGAA
++
+GEB<::;:::667:9<=973,+++11=<=A??@@FDC<;<8:::MJEDFCDD?><1*()'&)))+++8<:89-+()&'''+,/2B=::;
+@f4c0d9f0-b32d-4cdd-8189-e74c6af0ffc5 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=97 start_time=2025-03-19T16:52:59.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f4c0d9f0-b32d-4cdd-8189-e74c6af0ffc5 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGGTGTCAGCCGCGGCTCCACTTTC
++
+IGE<668541.//889;=?0001=>>??A@?=>?=@@ADDBEHSJLJIFFG@@A@JSKLLCSH=:666;95,,-<<9::;CE>=>?B>
+@e2ab241d-8c31-4016-af86-ee52b96e946c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=112 start_time=2025-03-19T16:53:45.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e2ab241d-8c31-4016-af86-ee52b96e946c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATCAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+<9;::B=>22121/./2=@>>>:;;;AA:999DIN'''EDDFDISHHGCGGJJLSHSIHFIJFIHSHHKSHGSSJFIKDCC:1113C9A2
+@0af88308-8e17-4df6-8bbc-8c4af50b4c48 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:53:45.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=0af88308-8e17-4df6-8bbc-8c4af50b4c48 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCACTGGCA
++
+0),55DNMQLSGFFCE@@?EDE;:;;ED@@?<::;?>444432345?@@@@::982021-..--/223,,,,../2/1/****/3>
+@2a6db604-62b5-4009-8a28-1bd6cd74bff2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=124 start_time=2025-03-19T16:53:42.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=2a6db604-62b5-4009-8a28-1bd6cd74bff2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+ADFDBBBCFCIDEICSHDDCAAACFEGDSGM@ICCFDNGI
+@b468de64-3234-4fb9-acba-fead315223eb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:53:28.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b468de64-3234-4fb9-acba-fead315223eb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+4344>53334EFC638IDGIJJLDKLHGRJMDGJMOHSLS
+@b08460ab-79d0-41a7-9e76-e0b2141ccabe runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=75 start_time=2025-03-19T16:53:48.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b08460ab-79d0-41a7-9e76-e0b2141ccabe basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+9:5.--:;<?@@CDHOJMPIJJPKSIGLISIPHKJJSJJIIGSHNJHKDGA?=>ABEFDAAB@AFILKIFEDDFF@?@@DCADCCA;CEM
+@7eb6d190-7529-4cfe-bd49-8786a7e8847b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=1 start_time=2025-03-19T16:53:34.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=7eb6d190-7529-4cfe-bd49-8786a7e8847b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+&&+*-,,.,,(()0A@@@BCAA?@>>?@CED>>>>GEDEGGSJEBBA>>>>@//..1666688:-,+,-1256882221///299:8
+@3c9e61ee-219e-4dab-b9c8-a36b3315c2ba runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:53:58.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3c9e61ee-219e-4dab-b9c8-a36b3315c2ba basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTAGCAGATGAATTGTGCGCCGCGGCTCCACTTTCGAA
++
+;;=523?<<<?CCDDJEGG@DCCBCA?=1..,,+*+,9>?B;<<<EDDCB=<<0-''('''()''%&')(''(79<<<8833.-,070AEB
+@f1c6d534-7ee7-44ca-872d-d46add158286 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=33 start_time=2025-03-19T16:53:41.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f1c6d534-7ee7-44ca-872d-d46add158286 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+<<BDFHGEFGMJHDCDFBSGKHMNJOSIMSSHGGSGNHGF
+@33c82406-d620-48c2-987e-4d52b5403761 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:53:31.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=33c82406-d620-48c2-987e-4d52b5403761 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCACCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+<;<<BAA@BBFDEIEHGHSDD9411''''12*&&((2.../;:<6667978<<?;<<=BBADFDHEBEDFGISPHOE>?EKEMNNGFJJPDJHK
+@d4751792-40d5-44d0-a2c4-59f3809bf5e4 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:53:36.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d4751792-40d5-44d0-a2c4-59f3809bf5e4 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACA
++
+@<,))+BABJHJLSHSFESKPNEFCGMLJIEDIIFEDAADFIKKFSGEDCFIIHGFLJIIJLJDC@@=7768<=>B@<JCDCDFJJG
+@5acebc58-2440-4933-ae97-246461545f4d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:53:55.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5acebc58-2440-4933-ae97-246461545f4d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+98899;9:9?HFGB>A;<A=<=>FGJJLDGIIGEFFGDHSPIPEECDHEEI9887::5432324>ABCHILGJHSGEGDHFKIHSRJSDG@@AA988899:EAAABHS<;;:8889?CGI
+@dd33556e-9b3a-47b7-8e3c-cd3ce7396b24 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=29 start_time=2025-03-19T16:54:08.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=dd33556e-9b3a-47b7-8e3c-cd3ce7396b24 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+DFEIDBA?<==AAEFIFHSDEDDCDCBA;9887&%%%',,.,--,6;:<>@?A@@CDJ===22/-...//3263-><<;?JMFEDEG=?;C
+@6a6b3877-fa3f-43c1-99c5-451527a8749d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=17 start_time=2025-03-19T16:54:30.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6a6b3877-fa3f-43c1-99c5-451527a8749d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CCGCCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGA
++
+EEBDHOIGILKJPIGHKFSNLLOLKSKLISRJPRHOMOLIMIIGE@>=>CC@-.<<J>BGDEE<96785=2212;<''''=6;;
+@1d1d0a04-212b-4217-84e1-45005ccdc037 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:54:07.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=1d1d0a04-212b-4217-84e1-45005ccdc037 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATATTTCAGCGATACAAACGTGAGCGCTGACGGACCGGCGCTCAACA
++
+>>=>>ABBA;?FB<>>>>CBEEADBBGFFJIIMGDEHAAABABB<;,,('&&''&&&%%%%&*24225222:9::677<==AD@?><8878
+@27d17803-b220-4a67-bc39-e96233769f7c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:54:16.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=27d17803-b220-4a67-bc39-e96233769f7c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCGGATGGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+LMG=:335=?<9996:8774559<=<>>?766742212446))),6*'(('(61111223****/('&&&''&''668;<;<;5555B;FEF
+@e3a57b72-610a-460a-ad13-fdda7ed90ba9 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=34 start_time=2025-03-19T16:54:01.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e3a57b72-610a-460a-ad13-fdda7ed90ba9 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTGGCGCTCACGTCATATCGTCGTATAGCTCTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCCA
++
+=@?@=8877766570//0421***+13,****545432//.--,,*)*,+-+*%$$%,-/013764400017660//0784530.),&
+@3c3b967f-44f1-44cf-b6ea-f43fcee2cb96 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=17 start_time=2025-03-19T16:54:38.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3c3b967f-44f1-44cf-b6ea-f43fcee2cb96 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+,,+,014760(((50//02))&%%&,,00332266BBFEBD3225IDA?>>?DBA=<<<D977843010111889:9:HFSFBA97G==?B
+@47271319-645c-4159-87d8-c5f04e23ccda runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:54:34.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=47271319-645c-4159-87d8-c5f04e23ccda basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATAGTAGCCGCGGCTCCGCTTTCGAA
++
+HJSJGDF?@><>>A>?=@B<==@EIFDGEHLFFEEIFFCCECDFESJGDD@@B?@>;000+++-))(&&(*24000087(''(:0;>?
+@3a3da79e-6a34-4907-9c1d-a3aaa57fafd5 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:54:20.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3a3da79e-6a34-4907-9c1d-a3aaa57fafd5 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GAAAGTGGAGGCGCGGCAACACTCATCTGCTATACGGTCACTATGTCGATATGACGTGAGCGCTGACGGACCGCACTGACTGGA
++
+DEEKD@4-+,*('&&++&&&&,,-222:9898943,++(&%%%'&'))+444'''''+621//1-,,,('()*'&**)((+-->
+@5e40da69-3e08-405f-9dee-22c8e422e1e6 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=106 start_time=2025-03-19T16:54:32.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5e40da69-3e08-405f-9dee-22c8e422e1e6 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTC
++
+IKGFDFGBB=999>=@AEEEGEGEHBDC@?>>>BCEDEFDFCFDGLFDEDCC@<;;=>=>99:877244;;:;;>?@???@A3333>7
+@791045ce-889c-4cf0-b3c9-c9b6e378f1c8 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:54:26.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=791045ce-889c-4cf0-b3c9-c9b6e378f1c8 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+;;<4224.///2421345566888;7878::98998878986567988:<<7520//2.'+455345434651000/////01012270116
+@06a1216b-345d-42a7-b266-21eab1e6bcb4 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=75 start_time=2025-03-19T16:54:22.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=06a1216b-345d-42a7-b266-21eab1e6bcb4 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+??B@@5239;HBGE@EE?CDAACDIIFCCBGALEJGLEEI
+@05847b7a-7ffa-4d57-a1aa-6d9f99fa4aa1 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:54:30.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=05847b7a-7ffa-4d57-a1aa-6d9f99fa4aa1 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTTTCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+;;=>CD>@@@IBEB>E:4JIFFSGFKJEAABCFHGI99720+),,2;JGGHSPGLSOFDKEQGAA@@BBCKGFEEIIMJMJGGKHJGOSIOEHMFHHFGGGRIHHMLFCCCBBCC=HDEB@???6666@9BE
+@6827f853-d04a-43b7-bdf5-648f034b7274 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=36 start_time=2025-03-19T16:55:02.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6827f853-d04a-43b7-bdf5-648f034b7274 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGTCGACGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+('(&&&&*)-136==<??>=><<DBA?ABC@BIHSPLNSHKEEDCCDFAADEAB;::;=:943420/000:<44422225A=KA
+@6280e4de-f71f-470a-b9ae-178fe69dbb9b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:54:58.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=6280e4de-f71f-470a-b9ae-178fe69dbb9b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGAAAGTGGAGCCGCAGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTACAACTGGCA
++
+><?>BD@8//,**,-))))//....0133;7666?@@@FFFGFHCEB@B?>??AHEEFA@?@A@@?@<<=>CA>?420.10+('(,-.-67
+@438b915d-0dd9-40a2-9c8d-445b08b4cc95 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=124 start_time=2025-03-19T16:54:40.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=438b915d-0dd9-40a2-9c8d-445b08b4cc95 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCGGATGATTGTAGCCGCGGCTCCACTTTCGAA
++
+FFEBBC@A@?72-+3)0//0239:9;<<7777@@BBEA?@4446>0.+,+*..00//.0))(+,+''&(%&''+3445666....D:GJG
+@228bf84f-609c-4358-9fc3-897365f151be runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=20 start_time=2025-03-19T16:54:38.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=228bf84f-609c-4358-9fc3-897365f151be basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCAACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTGGACTGGCA
++
+@;<@?HKHFGEFEFA@888100++++116666?==5556@<;;<BEBCCEDFFDFM?<<=>=<<=EFF54420..//>>...((((.89<?
+@a5d916f9-f423-402e-a822-f92244fb0604 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=35 start_time=2025-03-19T16:54:52.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a5d916f9-f423-402e-a822-f92244fb0604 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AGGGGCAGTCCATTCCCTCCGATAGATGAAACCAGCACCTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTGGCCGA
++
++''+**%%%%&3<>@CEDIFGGHHSFLHBIKIA@@?3334*)))+('$$$$$$$%38=DFHE6667CEFJIIADAA@AFDDEEEDFDEEC>23><;1+,+,69;677@CDFHMESDC?>:'%%&((
+@e0688a7d-405c-40da-854d-0df19d65c3e1 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=16 start_time=2025-03-19T16:55:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e0688a7d-405c-40da-854d-0df19d65c3e1 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCCGTCCAGTCAGCGCTCACGTCATATCGTCGTATAGCTATTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+160-,+.141.-/3*0&&?:6449FICAA?8889@=>5//9::::;FHDCHB110253447('&-&&%%(99677:???@@DB@AAAE:JFJ
+@d5aecb6c-9359-41d2-bab2-1a0b99f18b16 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:54:42.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=d5aecb6c-9359-41d2-bab2-1a0b99f18b16 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATGTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+JBEAC@D5655865457>ABDD<;;:27((((../>?>>BDIFCIKD@;::>BKFNHHHGGDCAA<6667555;:9;>=---,.--/>?BE
+@a3a79c83-88c3-45f0-8e2e-349f6bba6a87 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=31 start_time=2025-03-19T16:54:48.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a3a79c83-88c3-45f0-8e2e-349f6bba6a87 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACT
++
+@6999@KFLFIGHBEHBCDDFG9889EJGGFFSMFDHEDHIHIAAEC<<==DFDGLHISAGJGJIJGLNHGGILLGISJ5555BBC@
+@14a71e3e-cacc-41a5-a306-b962095f58d2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=56 start_time=2025-03-19T16:54:54.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=14a71e3e-cacc-41a5-a306-b962095f58d2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+2+-9;>?==>;;:879667799988''())14223>AAACB@@A@@>>:9965420***26:<@AD?====;8:CCDFC==<=CAAAA@@@
+@b2ab6cbb-8bda-49e5-96ae-c09ab0d3c9ef runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:54:55.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b2ab6cbb-8bda-49e5-96ae-c09ab0d3c9ef basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCAGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTA
++
+=>ADEGFDE><::99::?E=A@@@D@AB73200,,,,2-,-0567;::=BB8666CBABADFJKEJGHINGGGGDF<<;;:6*-.*
+@4749a902-7d98-40a0-a27c-b20df1179590 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=112 start_time=2025-03-19T16:54:46.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4749a902-7d98-40a0-a27c-b20df1179590 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+A754356<DSIIDLKEGSA@@)))*;;8DDDHHFACABDDCDCBHFECCB?@??E@?=>=EDFFCBCBLGMMGSEEDC>?>98779433-
+@cd18071b-ed4c-4c01-877a-31292094126c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=13 start_time=2025-03-19T16:54:51.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=cd18071b-ed4c-4c01-877a-31292094126c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+JGIIGFKII>EHIFC?765111,...356677CGFIHFKFFC>>??KSHJGGHMISGSIDEAABAECE>;665=<<=D@,,,,.---(()7
+@a038021e-7156-40a6-a7c4-7913b5d3ca20 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=97 start_time=2025-03-19T16:55:48.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=a038021e-7156-40a6-a7c4-7913b5d3ca20 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTAGCAGATGAGTGTCGCCGCGGCTCCACTTT
++
+DJEDCAC?AAADEEEOKJSKSFGEGBCB<8877BCC>>989---.//09:;:<11)&&&&*--699>FICEDFSNKLMMSIFKMI
+@b014a430-759a-4d68-956a-4ea92b5d4b09 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:55:43.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=b014a430-759a-4d68-956a-4ea92b5d4b09 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCGCCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+=?>=653//.---)'.'-/%&%%&&+/673222:;;;;:<<<=??@@?A@@=;;:=;:9:?@AACA??><<:999;5667<<5666;2@@?
+@11cb79e6-dc47-4cf0-b77e-923920d5672e runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=97 start_time=2025-03-19T16:55:50.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=11cb79e6-dc47-4cf0-b77e-923920d5672e basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGTTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+=8<<ACGDB@@DEC?>8413)'(((()6766''')>FGEHEECEFGEBBAA@AABQDFDEC?>>?AAA;:90,++,.44,+*)(((*78<7
+@f0258d23-a063-445d-93f0-3204d0a80942 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=9 start_time=2025-03-19T16:55:38.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f0258d23-a063-445d-93f0-3204d0a80942 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCAAA
++
+D76521111,,-/44::=:;;??@?@AGFEJDEKBC=<<<=BCENIIDAA<62.0777:@?7777>>BBDA=4410=5557
+@cba1b06e-5c92-47de-8de7-c4551ef260bb runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=124 start_time=2025-03-19T16:56:24.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=cba1b06e-5c92-47de-8de7-c4551ef260bb basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCA
++
+-.//533+))(()+)))%&%''-6756660002EGIEECIJDGDHIFFGJMGDFFLGGFSB@@89<;7,6;99;///@HA
+@00d3cca1-3938-4ef7-ac91-9d264e87cbf3 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=108 start_time=2025-03-19T16:56:21.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=00d3cca1-3938-4ef7-ac91-9d264e87cbf3 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+=>HGFILEFFAAAAEGLFDKEGEISFIEHGGGCCFEGJEFGGEGGDDCIHKSFJJIEHGJDEDCCCE;<<?EC9987,++,;;=8
+@05205667-c92e-4af9-85e9-f117f82cf6f5 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:56:01.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=05205667-c92e-4af9-85e9-f117f82cf6f5 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCGGGTCCATCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+HI=,('(77777655769832+*+,9:=;21//1165>?>AAAGCFCBHEKLJMEFF87777:99:;;;<==>>@@ABCSGHIIGM=7ECF
+@66417f1f-a625-4bbe-b547-352d51d58fa0 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=106 start_time=2025-03-19T16:56:03.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=66417f1f-a625-4bbe-b547-352d51d58fa0 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGTGCTGGTTTCATCTGGGAGGTGTTAACCTCCACAATAAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+BEC=<<+***A211((&&+++'%&&'&(&&''&%%&(--0012)&)56?@E>=?A>LJLHMCBBBACDS?CKIHISII
+@45bfdcb4-b94b-45c7-a8f9-0e60d581af72 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:56:07.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=45bfdcb4-b94b-45c7-a8f9-0e60d581af72 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GGTGCTGGTTTCATCTATAGAAGGGAATGAGATTAACTGCACGATGATATTGCCTGTTACTTCGTTCAGTTACGTATTGCTAAGGTTAATCCGATTCTGCTTCTTTCTACCTCCAGCACCTGGTGCTGCACGTGAGGAGCAAATGGTTGACAATCATT
++
+>?C22201119(((&&&'(''''*,.*'''&%'(&&&%####$%'&%%#%$#%+,**)%&,,+,00=5554)''(24765501;@GFAA@BSCAAB<A?9?:47;6.B@@A@('''SCCBBGHPLLDC=6/+*('()(((&%(+*(((*))'))&%%%
+@16161d5e-0ce8-432d-a8cc-fb39c88661fa runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:56:32.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=16161d5e-0ce8-432d-a8cc-fb39c88661fa basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCACGGCGACGCTTTCATTCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACA
++
+HB?>:;;8.'%''&'&'0)))*0.*)'&),*.,-?BDGGFFGHEKFGFFECEDFFHJGDEFEE////EEICECBHGGFJII@A@@IMEI
+@ead7b931-e96f-4cf5-9f49-cf480f58aa87 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:56:16.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=ead7b931-e96f-4cf5-9f49-cf480f58aa87 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+?;??<?@?=65;52123:<<BA=>=>BC<;;;CBB@AABHDCACB??;;==>>>>?=<<<;87789::45../<BABDA???@.../KGCG
+@227234a8-5069-49ae-b159-5199e9f5a797 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=82 start_time=2025-03-19T16:56:08.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=227234a8-5069-49ae-b159-5199e9f5a797 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATGGCGCTGGTGTCGCCGCGGCTCCACTTA
++
+<<=>=9866777786644544457:9;:;;987777888888:>?::9:><751-''$$&'$$%%'*11013443356<;///10
+@78ea59f0-8089-4db0-84b5-f66d519565c0 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:57:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=78ea59f0-8089-4db0-84b5-f66d519565c0 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCGGATGAGTGTC
++
+MOMIGFB3222<<?;@GFSAFEIGFISHHDC??@<>>A<8;22226)('(((/--+*,+,*+,,/))--.+
+@e83a54aa-00fe-443e-8bc1-cc4d8025f9e1 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:57:02.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=e83a54aa-00fe-443e-8bc1-cc4d8025f9e1 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATCACGAATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+--,**)*+88:>>@@DEBD>>?>@AFIKB?>;;;:?>?CISMJSJOIA><978))))(((')--,1258=AACEDEEDBGEG@@>ALDHHH
+@78c6ff4c-3de6-457d-b8ed-08ce1e71691d runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=36 start_time=2025-03-19T16:57:00.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=78c6ff4c-3de6-457d-b8ed-08ce1e71691d basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GAGGCACAGCGACACTCATCTGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCACTCAACTGGCA
++
+%%&'$$$%&''876788<BDFECIFEDFDFGFHGIJDEEEDDCECJRCCBGHFDFIEGCABCEDBBC@A?)))),++-449=
+@ba2f0fba-027d-4b1a-a5d8-a8f7e01de360 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=52 start_time=2025-03-19T16:56:56.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=ba2f0fba-027d-4b1a-a5d8-a8f7e01de360 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+@D?93277;<AA@B>>>?A0/....//1/.-..79ABECCE<;;;A43334:966668,+/...259;>DFDBDCFDEDIMMA>==>4444
+@4c060788-34da-48aa-b910-e294a3b1bc5f runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:56:33.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=4c060788-34da-48aa-b910-e294a3b1bc5f basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCATACGACGCTCACGTCATATCGTCGTATGGCTCTCTATAGCGAATGAGTGTCGCCGCGGCTCCACTTTCGA
++
+JPHJJJHCBBBA?A0//0<37,+++46:;:AB>?=?GEDHGE8667@,,,,/,%&'''&&'&((*,,..34445=ECDBCHSCBACJ411
+@76f5962b-c873-4c18-b72e-930b6e56fdb3 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=22 start_time=2025-03-19T16:57:10.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=76f5962b-c873-4c18-b72e-930b6e56fdb3 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGGTGTCGCCGCGGCTCCACTTTCGAA
++
+<:400./,++&'',+,,,0---,-.('''*+456667?99:<=>>NBACA;332488-))*((**'''(***,000889GD76662**+6
+@8fe1c7df-7d7f-4424-849a-ee504340a2d2 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=7 start_time=2025-03-19T16:56:43.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=8fe1c7df-7d7f-4424-849a-ee504340a2d2 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTCTATTATAGCGGATGGAGTATAGCCGCGGCTCCACTTTCGAA
++
+HJMB;:7661,,,>;>>BHLPHDFHBCBA4334>>A?=,+,+-*).-./1)''(('(.././22/+++,*+++,,7ADHGHIQDKGLP@@@@
+@3ec19027-4835-470f-a957-d454a2d9c65c runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=71 start_time=2025-03-19T16:57:15.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3ec19027-4835-470f-a957-d454a2d9c65c basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTAA
++
+9::7667<==<:99:?@AB@@@<<<;===@@997688;<???@@BECBC@BCABFGE
+@3e86674e-b6ee-4051-aed2-a3d49d37acdf runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=111 start_time=2025-03-19T16:57:18.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=3e86674e-b6ee-4051-aed2-a3d49d37acdf basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCAGCTATACAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+*)?BDGIIHDBB;989344355,++()))223)(((;???B@CFDECD=>==99>?DDDAB@?>>?@?>?@CAC>D>><63224998/
+@c034b6ed-449e-45c6-aa53-8ff76978c54b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:57:52.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=c034b6ed-449e-45c6-aa53-8ff76978c54b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+>@90//17BCGGGMDHFSHHGPLHGIOGEEBBCCHJLHMKIJHISIHKKKLGSSIEB<=,,,.2/0012116;DEILJLNQJJGFI:<:<
+@11f0b5c4-65e0-424f-b1b7-941fa13f8de7 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=112 start_time=2025-03-19T16:57:39.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=11f0b5c4-65e0-424f-b1b7-941fa13f8de7 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTTGAGCGCCGGTCCATCAGCAGGCTAAGCGGCGTTTAGCCATGCCATGACGACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTCGAA
++
+8:;.//1669-++,10/1/--55435-*))*'%&''($#"##"""""""""#%&(+,225458<A=@?<>@JFAB@@A;9::A<8676.8CD
+@ef30a3e0-62ab-4e94-8933-eac3d47d6a6b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=52 start_time=2025-03-19T16:57:24.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=ef30a3e0-62ab-4e94-8933-eac3d47d6a6b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GTAGCTATACGACGATATGACGTGAGCGCTAGCGGACCGGCGCTCAACTGGCA
++
+JEDBCJGLGDDFOCCDCHHFSHG0000212)%%&&,3469:9;;;;;;=ECBD
+@00af7349-57dd-44b6-ad88-02bd1fa2dc15 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=47 start_time=2025-03-19T16:57:37.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=00af7349-57dd-44b6-ad88-02bd1fa2dc15 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+1122.''').../00B@GGEHFGGEFCCCJSEBEDB@=<
+@dfc48471-b891-49c1-9797-1c1d914d5442 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=47 start_time=2025-03-19T16:58:18.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=dfc48471-b891-49c1-9797-1c1d914d5442 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCTAAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+DBBCDFGGCFLIG:7AGFKSHEJHJLGFCMHSSSHSMSJFBAHGHHKHIHOJNDDSOHBB>>?>89DEKINHNEISIJNS
+@42673205-37dd-4d8a-9f3c-3ec89097f46b runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=47 start_time=2025-03-19T16:58:06.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=42673205-37dd-4d8a-9f3c-3ec89097f46b basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTGAGCGCCGGTCCGTCAGCGCTCACGTCATATCGTCGTATAGCTACTGTATAGCAGATGAGTGTCGCCGCGGCTCCACTTTCGAA
++
+?EG<:::?@@FFEDHHRLSQIHIIS>?><994.''*+6:>J;:::DDAB@B9755111.043221000/11././/()),++''''<7=??
+@f811380a-b222-4023-8705-d64bffca9a68 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=14 start_time=2025-03-19T16:57:55.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=f811380a-b222-4023-8705-d64bffca9a68 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+TCGAAAGTGGAGCCGCGGCGACACTCATCTGCTATAAGTAGCTATACGACGATATGACGTGAGCGCTGACGGACCGGCGCTCAACTGGCA
++
+G3224=?=;<?@>=:98:::AA65457:3.07>>A=968999>JO:8222FJFGGA=44565452222=>88631123???<>>>CA;ID
+@5ade3fa5-d5ff-4dae-8bc9-364b832b7718 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=47 start_time=2025-03-19T16:58:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5ade3fa5-d5ff-4dae-8bc9-364b832b7718 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+CCTAGGCGCACTCGCGAAGTGACCGGTGTCTTTCATTGCGCAACGTCGCTCGATGACGCGGCCCAGGATCTTCTGCTGTCGGGATTGGATCGCTCCGACATCGACCTCAGCGCATCTCCCGACGAAGTGCAGCCGACGGATGAATTTCGCTGTGGTTCCTCCAGCCGA
++
+,3456?@GHIMEF@A@BEGGNHIK::9911084/.-6+)))*)**0&&&*0)))888BCBAAAD@>>?SHNKNSKKGHG1//.,=<+**+:997761@ABEJFCCDHAAFGHE6656422-+&$#%'&%%%##$$%&'(*((''))*+,,12656<=<@<=@<<<<<A
+@843a2a31-29d3-491a-9f58-89dff1c4d696 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=72 start_time=2025-03-19T16:58:07.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=843a2a31-29d3-491a-9f58-89dff1c4d696 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCGATAGATGAAACCAGCACCT
++
+65676534>>IELHBKLHGPIHHIGFG;::;CHBBDBDJJ
+@5bd11ed8-337d-418c-9287-09481d30ffd7 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=34 start_time=2025-03-19T16:58:08.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5bd11ed8-337d-418c-9287-09481d30ffd7 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+AAGGTTAATCCATTCCCTCCCCCGATAGATGAAACCAGCA
++
+3000343816611228;9/..35499;?>?>93976.-,,
+@5043ea2a-8b30-4c08-962f-424729706849 runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=47 start_time=2025-03-19T16:58:04.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=5043ea2a-8b30-4c08-962f-424729706849 basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCGGCGACACTCATCTGCTATACAGTAGCTATATTAAAGACGATATCACCTGCAGCGCTGACGGACCGCACTCAATGGC
++
+ID---,-,+-))+>88866440/)(((((*12/.(()**)(+-224+))'&&%###%%*+---.../-&%'''333130
+@81e5753c-7a93-4b35-9467-268555e1d1df runid=3e9dc7c3df5e03573698a487fb6fe22ede5b29b0 ch=83 start_time=2025-03-19T16:58:12.571028+00:00 flow_cell_id=AWL993 basecall_gpu=NVIDIA_Tegra_X2 protocol_group_id=180325_pool6 sample_id=180325_pool6 barcode=barcode11 barcode_alias=barcode11 parent_read_id=81e5753c-7a93-4b35-9467-268555e1d1df basecall_model_version_id=dna_r10.4.1_e8.2_400bps_hac@v4.3.0
+GCCAGTTAAGCACGTGCCGTCAGCGCTCACGTCGTATGATGATAGCTACTGTATAGCAGATCGTGTCGCCGCGGCTCCACTTTC
++
++.../,*&&''%%$%&&))0045<<@?85511+)))-'''$$%$*./2.-)(((,-1-++,)%%*57555>AGDBEGH=;<<I?
