@@ -1,0 +1,5 @@
+K_C1 = Klenow fragment-based reverse complementation using random nonamers
+P_A1 = High-fidelity amplification using known primers
+R_B1 = High-fidelity  reverse complementation using known primers
+
+All folders contain all 150nt, 90nt and 75nt sequences which have to be de-pooled based on length. For our study only 50,000 reads was used to compare with ONT based sequencing data of within the same range of reads
